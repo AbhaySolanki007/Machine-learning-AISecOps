@@ -1,0 +1,3195 @@
+[
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.273369Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-1-1371.txt",
+            "trace_length": 279
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 75,
+                "getcpu": 194,
+                "getitimer": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.273797Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-1-1613.txt",
+            "trace_length": 766
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 139,
+                "kexec_load": 51,
+                "capset": 8,
+                "syscall_265": 110,
+                "reboot": 286,
+                "geteuid": 64,
+                "setuid": 55,
+                "sched_setscheduler": 50,
+                "semtimedop": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.274123Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-1-2311.txt",
+            "trace_length": 569
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 134,
+                "syscall_43": 60,
+                "io_cancel": 112,
+                "getcpu": 249,
+                "shmctl": 4,
+                "syscall_340": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.274457Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-1-2377.txt",
+            "trace_length": 1068
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_309": 202,
+                "fchownat": 810,
+                "io_cancel": 51,
+                "rt_tgsigqueueinfo": 4,
+                "syscall_265": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.274776Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-1-2462.txt",
+            "trace_length": 821
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 427,
+                "io_cancel": 157,
+                "syscall_265": 234,
+                "readlinkat": 2,
+                "setpriority": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.275013Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-1-2783.txt",
+            "trace_length": 527
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 90,
+                "getcpu": 227,
+                "setuid": 40,
+                "syscall_265": 116,
+                "readlinkat": 10,
+                "eventfd2": 36,
+                "io_getevents": 4,
+                "setdomainname": 3,
+                "fchownat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.275230Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-1-=1.txt",
+            "trace_length": 424
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 98,
+                "setdomainname": 326
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.275511Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-10-1371.txt",
+            "trace_length": 239
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 175,
+                "syscall_265": 53,
+                "getitimer": 11
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.275772Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-10-1613.txt",
+            "trace_length": 735
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 147,
+                "setuid": 77,
+                "kexec_load": 55,
+                "syscall_265": 95,
+                "reboot": 228,
+                "geteuid": 107,
+                "sched_setscheduler": 22,
+                "semtimedop": 2,
+                "fchownat": 1,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.276052Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-10-2311.txt",
+            "trace_length": 691
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 161,
+                "getcpu": 302,
+                "io_cancel": 133,
+                "syscall_43": 73,
+                "setuid": 5,
+                "shmctl": 7,
+                "syscall_340": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.276323Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-10-2462.txt",
+            "trace_length": 618
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 364,
+                "io_cancel": 123,
+                "setuid": 2,
+                "syscall_265": 129
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.276617Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-10-2783.txt",
+            "trace_length": 458
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 214,
+                "io_cancel": 84,
+                "setuid": 40,
+                "syscall_265": 117,
+                "fchownat": 1,
+                "io_getevents": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.276862Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-10-=1.txt",
+            "trace_length": 447
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setdomainname": 355,
+                "clock_getres": 92
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.277139Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-2-1371.txt",
+            "trace_length": 254
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 77,
+                "getcpu": 170,
+                "getitimer": 7
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.277359Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-2-1613.txt",
+            "trace_length": 559
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 111,
+                "kexec_load": 40,
+                "io_cancel": 129,
+                "geteuid": 28,
+                "reboot": 176,
+                "setuid": 59,
+                "sched_setscheduler": 12,
+                "fchownat": 3,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.277467Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-2-18548.txt",
+            "trace_length": 124
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 11,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 22,
+                "setxattr": 10,
+                "shmdt": 9,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.277710Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-2-2311.txt",
+            "trace_length": 499
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 201,
+                "syscall_265": 115,
+                "io_cancel": 114,
+                "syscall_340": 6,
+                "syscall_43": 59,
+                "shmctl": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.278215Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-2-2377.txt",
+            "trace_length": 1560
+        },
+        "kernel": {
+            "syscall_counts": {
+                "fchownat": 1119,
+                "syscall_265": 3,
+                "rt_tgsigqueueinfo": 9,
+                "io_cancel": 85,
+                "syscall_309": 341,
+                "setxattr": 2,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.278502Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-2-2462.txt",
+            "trace_length": 721
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 152,
+                "getcpu": 371,
+                "syscall_265": 193,
+                "setxattr": 1,
+                "readlinkat": 2,
+                "setuid": 1,
+                "lsetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.278771Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-2-2783.txt",
+            "trace_length": 525
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 124,
+                "getcpu": 233,
+                "io_cancel": 100,
+                "setuid": 46,
+                "io_getevents": 15,
+                "setdomainname": 2,
+                "readlinkat": 4,
+                "eventfd2": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.278965Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-2-=1.txt",
+            "trace_length": 372
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 91,
+                "setdomainname": 281
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.279241Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-3-1371.txt",
+            "trace_length": 309
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 17,
+                "getcpu": 228,
+                "syscall_265": 64
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.279485Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-3-1613.txt",
+            "trace_length": 466
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setuid": 36,
+                "reboot": 129,
+                "io_cancel": 136,
+                "kexec_load": 45,
+                "syscall_265": 76,
+                "geteuid": 33,
+                "sched_setscheduler": 9,
+                "fchownat": 1,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.279680Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-3-18618.txt",
+            "trace_length": 161
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 48,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 11,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1,
+                "execve": 1,
+                "clone": 2,
+                "shmat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.279941Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-3-2311.txt",
+            "trace_length": 581
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 140,
+                "syscall_43": 46,
+                "io_cancel": 119,
+                "getcpu": 268,
+                "syscall_340": 5,
+                "shmctl": 2,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.280166Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-3-2377.txt",
+            "trace_length": 439
+        },
+        "kernel": {
+            "syscall_counts": {
+                "fchownat": 294,
+                "syscall_309": 115,
+                "io_cancel": 30
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.280481Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-3-2462.txt",
+            "trace_length": 780
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 459,
+                "syscall_265": 171,
+                "io_cancel": 148,
+                "setxattr": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.280749Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-3-2783.txt",
+            "trace_length": 384
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 177,
+                "syscall_265": 91,
+                "setuid": 31,
+                "io_cancel": 68,
+                "readlinkat": 4,
+                "io_getevents": 11,
+                "eventfd2": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.280958Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-3-=1.txt",
+            "trace_length": 434
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 94,
+                "setdomainname": 340
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.281147Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-4-1371.txt",
+            "trace_length": 218
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 56,
+                "getcpu": 156,
+                "getitimer": 6
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.281460Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-4-1613.txt",
+            "trace_length": 693
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 214,
+                "io_cancel": 141,
+                "syscall_265": 106,
+                "geteuid": 95,
+                "setuid": 65,
+                "sched_setscheduler": 19,
+                "kexec_load": 44,
+                "semtimedop": 2,
+                "capset": 3,
+                "fchownat": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.281731Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-4-2311.txt",
+            "trace_length": 623
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 190,
+                "syscall_43": 61,
+                "io_cancel": 127,
+                "getcpu": 233,
+                "shmctl": 6,
+                "syscall_340": 5,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.281980Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-4-2377.txt",
+            "trace_length": 542
+        },
+        "kernel": {
+            "syscall_counts": {
+                "fchownat": 394,
+                "rt_tgsigqueueinfo": 1,
+                "syscall_309": 125,
+                "io_cancel": 22
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.282361Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-4-2462.txt",
+            "trace_length": 988
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 519,
+                "syscall_265": 275,
+                "io_cancel": 190,
+                "readlinkat": 3,
+                "setxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.282592Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-4-2783.txt",
+            "trace_length": 488
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 131,
+                "io_getevents": 4,
+                "getcpu": 212,
+                "io_cancel": 93,
+                "setuid": 34,
+                "sched_setaffinity": 1,
+                "fchownat": 2,
+                "eventfd2": 7,
+                "readlinkat": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.282809Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-4-=1.txt",
+            "trace_length": 410
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 94,
+                "setdomainname": 316
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.283125Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-5-1371.txt",
+            "trace_length": 295
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 78,
+                "getcpu": 206,
+                "getitimer": 11
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.283341Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-5-1613.txt",
+            "trace_length": 427
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 127,
+                "syscall_265": 54,
+                "kexec_load": 20,
+                "io_cancel": 90,
+                "geteuid": 66,
+                "setuid": 47,
+                "sched_setscheduler": 13,
+                "semtimedop": 2,
+                "capset": 5,
+                "fchownat": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.283459Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-5-18714.txt",
+            "trace_length": 172
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 55,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 13,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 25,
+                "setxattr": 11,
+                "shmdt": 11,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1,
+                "execve": 1,
+                "clone": 2,
+                "shmat": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.283736Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-5-2311.txt",
+            "trace_length": 497
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 126,
+                "io_cancel": 89,
+                "getcpu": 232,
+                "syscall_43": 46,
+                "shmctl": 3,
+                "syscall_340": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.283953Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-5-2377.txt",
+            "trace_length": 373
+        },
+        "kernel": {
+            "syscall_counts": {
+                "fchownat": 265,
+                "rt_tgsigqueueinfo": 3,
+                "io_cancel": 26,
+                "syscall_309": 77,
+                "io_getevents": 1,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.284245Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-5-2462.txt",
+            "trace_length": 888
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 145,
+                "getcpu": 530,
+                "syscall_265": 204,
+                "setuid": 3,
+                "setpriority": 1,
+                "lsetxattr": 1,
+                "capset": 1,
+                "readlinkat": 2,
+                "shmdt": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.284456Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-5-2783.txt",
+            "trace_length": 370
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 172,
+                "io_cancel": 69,
+                "syscall_265": 71,
+                "fchownat": 2,
+                "setuid": 31,
+                "io_getevents": 8,
+                "eventfd2": 11,
+                "readlinkat": 5,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.284571Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-5-961.txt",
+            "trace_length": 143
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 35,
+                "setxattr": 61,
+                "lsetxattr": 17,
+                "shmdt": 5,
+                "capset": 17,
+                "semtimedop": 6,
+                "getpriority": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.284878Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-5-=1.txt",
+            "trace_length": 371
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setdomainname": 308,
+                "clock_getres": 63
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.285064Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-5-=5738.txt",
+            "trace_length": 75
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setdomainname": 63,
+                "clock_getres": 12
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.285412Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-6-1371.txt",
+            "trace_length": 237
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 62,
+                "getcpu": 163,
+                "getitimer": 12
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.285879Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-6-1613.txt",
+            "trace_length": 480
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 116,
+                "syscall_265": 79,
+                "io_cancel": 100,
+                "geteuid": 77,
+                "kexec_load": 46,
+                "setuid": 45,
+                "sched_setscheduler": 11,
+                "capset": 4,
+                "semtimedop": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.286050Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-6-18759.txt",
+            "trace_length": 127
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 11,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.286345Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-6-2311.txt",
+            "trace_length": 394
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 173,
+                "syscall_43": 31,
+                "syscall_265": 94,
+                "io_cancel": 89,
+                "shmctl": 1,
+                "syscall_340": 1,
+                "setuid": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.286735Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-6-2462.txt",
+            "trace_length": 684
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 155,
+                "getcpu": 369,
+                "syscall_265": 157,
+                "lsetxattr": 2,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.287045Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-6-2783.txt",
+            "trace_length": 327
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 77,
+                "io_cancel": 58,
+                "getcpu": 157,
+                "setuid": 24,
+                "fchownat": 2,
+                "readlinkat": 3,
+                "eventfd2": 1,
+                "io_getevents": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.287460Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-6-961.txt",
+            "trace_length": 158
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 51,
+                "io_cancel": 42,
+                "capset": 23,
+                "getpriority": 2,
+                "semtimedop": 10,
+                "setdomainname": 3,
+                "lsetxattr": 19,
+                "shmdt": 7,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.288135Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-6-=1.txt",
+            "trace_length": 367
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 73,
+                "setdomainname": 294
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.288427Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-7-1371.txt",
+            "trace_length": 217
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 156,
+                "syscall_265": 49,
+                "getitimer": 12
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.288653Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-7-1613.txt",
+            "trace_length": 453
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 95,
+                "setuid": 50,
+                "reboot": 129,
+                "syscall_265": 74,
+                "kexec_load": 35,
+                "geteuid": 54,
+                "sched_setscheduler": 14,
+                "capset": 1,
+                "semtimedop": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.288810Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-7-18802.txt",
+            "trace_length": 169
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 52,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 13,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 25,
+                "setxattr": 11,
+                "shmdt": 11,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1,
+                "execve": 1,
+                "clone": 2,
+                "shmat": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.289028Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-7-2311.txt",
+            "trace_length": 458
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 111,
+                "getcpu": 221,
+                "syscall_43": 36,
+                "io_cancel": 80,
+                "syscall_340": 6,
+                "shmctl": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.289301Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-7-2462.txt",
+            "trace_length": 695
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 163,
+                "io_cancel": 122,
+                "getcpu": 407,
+                "setxattr": 1,
+                "setuid": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.289492Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-7-2783.txt",
+            "trace_length": 358
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 176,
+                "io_getevents": 5,
+                "syscall_265": 76,
+                "io_cancel": 65,
+                "setuid": 31,
+                "readlinkat": 3,
+                "eventfd2": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.289625Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-7-961.txt",
+            "trace_length": 125
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 59,
+                "shmdt": 8,
+                "semtimedop": 5,
+                "io_cancel": 25,
+                "capset": 17,
+                "lsetxattr": 7,
+                "setdomainname": 3,
+                "getpriority": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.289853Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-7-=1.txt",
+            "trace_length": 431
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 80,
+                "setdomainname": 351
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.290590Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-8-1371.txt",
+            "trace_length": 273
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 189,
+                "syscall_265": 71,
+                "getitimer": 13
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.291209Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-8-1613.txt",
+            "trace_length": 394
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setuid": 38,
+                "reboot": 125,
+                "kexec_load": 22,
+                "geteuid": 46,
+                "io_cancel": 81,
+                "syscall_265": 70,
+                "sched_setscheduler": 8,
+                "fchownat": 1,
+                "capset": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.291784Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-8-18868.txt",
+            "trace_length": 151
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 43,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.292045Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-8-2311.txt",
+            "trace_length": 527
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 99,
+                "getcpu": 263,
+                "syscall_43": 46,
+                "syscall_265": 103,
+                "setuid": 5,
+                "syscall_340": 8,
+                "shmctl": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.292353Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-8-2462.txt",
+            "trace_length": 802
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 468,
+                "setuid": 1,
+                "io_cancel": 146,
+                "syscall_265": 186,
+                "setpriority": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.292541Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-8-2783.txt",
+            "trace_length": 316
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 53,
+                "setuid": 33,
+                "getcpu": 149,
+                "syscall_265": 77,
+                "fchownat": 1,
+                "readlinkat": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.292735Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-8-=1.txt",
+            "trace_length": 377
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 78,
+                "setdomainname": 299
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.293040Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-1371.txt",
+            "trace_length": 264
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 174,
+                "syscall_265": 80,
+                "getitimer": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.293355Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-17612.txt",
+            "trace_length": 826
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_256": 357,
+                "getitimer": 239,
+                "io_cancel": 76,
+                "io_getevents": 32,
+                "syscall_265": 82,
+                "rt_tgsigqueueinfo": 40
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.294118Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-17614.txt",
+            "trace_length": 2620
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 785,
+                "getitimer": 400,
+                "readlinkat": 878,
+                "io_getevents": 246,
+                "syscall_265": 119,
+                "lsetxattr": 43,
+                "io_cancel": 58,
+                "rt_tgsigqueueinfo": 53,
+                "fchownat": 34,
+                "execve": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.294265Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-17617.txt",
+            "trace_length": 146
+        },
+        "kernel": {
+            "syscall_counts": {
+                "keyctl": 98,
+                "rt_tgsigqueueinfo": 46,
+                "capset": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.294382Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-17622.txt",
+            "trace_length": 99
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 70,
+                "io_getevents": 29
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.294571Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-17626.txt",
+            "trace_length": 437
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 141,
+                "setpriority": 20,
+                "io_getevents": 170,
+                "io_cancel": 12,
+                "execve": 70,
+                "rt_tgsigqueueinfo": 23,
+                "shmdt": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.294695Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-17627.txt",
+            "trace_length": 141
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 49,
+                "io_cancel": 14,
+                "io_getevents": 43,
+                "execve": 8,
+                "rt_tgsigqueueinfo": 19,
+                "sched_setparam": 5,
+                "setpriority": 2,
+                "shmget": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.295032Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-17629.txt",
+            "trace_length": 1073
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 261,
+                "eventfd2": 16,
+                "rt_tgsigqueueinfo": 591,
+                "readlinkat": 68,
+                "io_getevents": 85,
+                "setxattr": 5,
+                "shmctl": 2,
+                "umount2": 7,
+                "mknodat": 12,
+                "syscall_324": 7,
+                "lsetxattr": 2,
+                "io_cancel": 14,
+                "keyctl": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.295148Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-17636.txt",
+            "trace_length": 106
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 39,
+                "execve": 48,
+                "rt_tgsigqueueinfo": 14,
+                "setpriority": 2,
+                "io_cancel": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.295264Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-18903.txt",
+            "trace_length": 116
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 34,
+                "mknodat": 1,
+                "readlinkat": 12,
+                "syscall_265": 20,
+                "umount2": 1,
+                "shmat": 1,
+                "renameat": 2,
+                "io_getevents": 15,
+                "io_cancel": 16,
+                "keyctl": 2,
+                "shmctl": 1,
+                "eventfd2": 4,
+                "setxattr": 6,
+                "lsetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.295511Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-18907.txt",
+            "trace_length": 656
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_getevents": 123,
+                "getitimer": 205,
+                "io_cancel": 22,
+                "syscall_265": 43,
+                "rt_tgsigqueueinfo": 46,
+                "syscall_256": 217
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.295625Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-18911.txt",
+            "trace_length": 75
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 75
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.295877Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-18939.txt",
+            "trace_length": 126
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 11,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 23,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.296013Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-18999.txt",
+            "trace_length": 81
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 79,
+                "semtimedop": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.296358Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-2224.txt",
+            "trace_length": 783
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 108,
+                "getcpu": 222,
+                "syscall_265": 164,
+                "setuid": 197,
+                "flistxattr": 92
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.296621Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-2257.txt",
+            "trace_length": 151
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 47,
+                "io_cancel": 60,
+                "syscall_265": 38,
+                "syscall_292": 3,
+                "setuid": 2,
+                "setxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.296849Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-2277.txt",
+            "trace_length": 208
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 91,
+                "getcpu": 93,
+                "setuid": 17,
+                "lsetxattr": 1,
+                "syscall_265": 5,
+                "sched_setaffinity": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.297135Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-2311.txt",
+            "trace_length": 513
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 102,
+                "getcpu": 214,
+                "syscall_265": 145,
+                "syscall_43": 44,
+                "shmctl": 4,
+                "setuid": 1,
+                "syscall_340": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.297445Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-2462.txt",
+            "trace_length": 859
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 212,
+                "getcpu": 449,
+                "io_cancel": 185,
+                "setuid": 8,
+                "readlinkat": 2,
+                "setxattr": 1,
+                "lsetxattr": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.297597Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-2783.txt",
+            "trace_length": 228
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 52,
+                "syscall_265": 63,
+                "setuid": 14,
+                "getcpu": 87,
+                "readlinkat": 2,
+                "io_getevents": 6,
+                "eventfd2": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.297741Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-961.txt",
+            "trace_length": 135
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 53,
+                "io_cancel": 42,
+                "shmdt": 5,
+                "capset": 14,
+                "lsetxattr": 12,
+                "setdomainname": 5,
+                "semtimedop": 3,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.297921Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Adduser-9-=1.txt",
+            "trace_length": 387
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setdomainname": 307,
+                "clock_getres": 80
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Adduser"
+    }
+]

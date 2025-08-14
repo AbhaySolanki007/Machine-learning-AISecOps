@@ -1,0 +1,6380 @@
+[
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.298120Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-1371.txt",
+            "trace_length": 131
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 94,
+                "syscall_265": 33,
+                "getitimer": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.298327Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-1442.txt",
+            "trace_length": 450
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 123,
+                "readlinkat": 205,
+                "getitimer": 60,
+                "flistxattr": 10,
+                "setuid": 22,
+                "shmctl": 13,
+                "lsetxattr": 17
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.298475Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-1613.txt",
+            "trace_length": 211
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 55,
+                "reboot": 66,
+                "kexec_load": 14,
+                "syscall_265": 53,
+                "geteuid": 3,
+                "capset": 1,
+                "setuid": 8,
+                "sched_setscheduler": 2,
+                "getitimer": 9
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.298626Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-2311.txt",
+            "trace_length": 240
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 54,
+                "getcpu": 105,
+                "shmctl": 3,
+                "io_cancel": 50,
+                "syscall_43": 25,
+                "syscall_340": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.298808Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-2462.txt",
+            "trace_length": 420
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 90,
+                "io_cancel": 89,
+                "getcpu": 241
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.298929Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-2783.txt",
+            "trace_length": 139
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 31,
+                "syscall_265": 28,
+                "getcpu": 66,
+                "setuid": 14
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.299047Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-3523.txt",
+            "trace_length": 131
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_309": 15,
+                "shmctl": 21,
+                "shmat": 8,
+                "lsetxattr": 5,
+                "syscall_265": 3,
+                "setxattr": 9,
+                "getitimer": 34,
+                "inotify_add_watch": 11,
+                "timerfd_create": 21,
+                "fgetxattr": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.299172Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-3524.txt",
+            "trace_length": 159
+        },
+        "kernel": {
+            "syscall_counts": {
+                "timerfd_create": 22,
+                "setxattr": 21,
+                "syscall_309": 17,
+                "getitimer": 48,
+                "shmat": 3,
+                "inotify_add_watch": 15,
+                "fgetxattr": 12,
+                "lsetxattr": 4,
+                "syscall_265": 2,
+                "shmctl": 15
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.299346Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-8990.txt",
+            "trace_length": 378
+        },
+        "kernel": {
+            "syscall_counts": {
+                "flistxattr": 135,
+                "io_getevents": 68,
+                "readlinkat": 67,
+                "rt_tgsigqueueinfo": 75,
+                "syscall_265": 33
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.299459Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-9044.txt",
+            "trace_length": 115
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 3,
+                "capset": 13,
+                "shmctl": 7,
+                "lsetxattr": 16,
+                "setxattr": 14,
+                "shmdt": 12,
+                "semtimedop": 16,
+                "mknodat": 2,
+                "io_cancel": 22,
+                "sched_get_priority_max": 5,
+                "flistxattr": 1,
+                "shmat": 2,
+                "socketpair": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.299580Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-9178.txt",
+            "trace_length": 137
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 19,
+                "shmdt": 4,
+                "capset": 5,
+                "mknodat": 2,
+                "setxattr": 9,
+                "execve": 10,
+                "setpriority": 6,
+                "inotify_add_watch": 6,
+                "getuid": 4,
+                "io_cancel": 29,
+                "lsetxattr": 5,
+                "socketpair": 2,
+                "listen": 2,
+                "flistxattr": 7,
+                "semtimedop": 5,
+                "shmat": 4,
+                "reboot": 7,
+                "io_getevents": 7,
+                "shmctl": 1,
+                "syscall_268": 1,
+                "sched_get_priority_max": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.299689Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-1-9186.txt",
+            "trace_length": 103
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 11,
+                "getuid": 6,
+                "sched_setaffinity": 1,
+                "capset": 5,
+                "mknodat": 2,
+                "setxattr": 6,
+                "execve": 9,
+                "setpriority": 6,
+                "inotify_add_watch": 6,
+                "io_cancel": 27,
+                "lsetxattr": 4,
+                "socketpair": 2,
+                "listen": 2,
+                "flistxattr": 6,
+                "shmdt": 2,
+                "semtimedop": 2,
+                "shmat": 3,
+                "io_getevents": 2,
+                "reboot": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.299962Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-13541.txt",
+            "trace_length": 527
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 123,
+                "flistxattr": 164,
+                "syscall_265": 57,
+                "io_getevents": 96,
+                "readlinkat": 87
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.300095Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-1371.txt",
+            "trace_length": 175
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 106,
+                "syscall_265": 63,
+                "getitimer": 6
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.300361Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-1442.txt",
+            "trace_length": 776
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 183,
+                "readlinkat": 362,
+                "setuid": 52,
+                "lsetxattr": 32,
+                "shmctl": 24,
+                "getitimer": 105,
+                "flistxattr": 18
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.300487Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-15866.txt",
+            "trace_length": 152
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 37,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 13,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 25,
+                "setxattr": 10,
+                "shmdt": 11,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1,
+                "clone": 2,
+                "shmat": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.300606Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-15879.txt",
+            "trace_length": 144
+        },
+        "kernel": {
+            "syscall_counts": {
+                "flistxattr": 5,
+                "io_cancel": 29,
+                "shmctl": 6,
+                "setxattr": 16,
+                "shmdt": 4,
+                "semtimedop": 15,
+                "mknodat": 6,
+                "lsetxattr": 10,
+                "sched_get_priority_max": 10,
+                "capset": 11,
+                "syscall_258": 1,
+                "getuid": 3,
+                "getitimer": 6,
+                "io_getevents": 3,
+                "setpriority": 3,
+                "inotify_add_watch": 3,
+                "execve": 6,
+                "socketpair": 1,
+                "listen": 1,
+                "shmat": 2,
+                "reboot": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.300715Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-15910.txt",
+            "trace_length": 98
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 6,
+                "setpriority": 5,
+                "shmdt": 3,
+                "semtimedop": 3,
+                "capset": 5,
+                "lsetxattr": 4,
+                "shmctl": 1,
+                "io_cancel": 18,
+                "flistxattr": 7,
+                "getitimer": 10,
+                "io_getevents": 5,
+                "mknodat": 1,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "execve": 11,
+                "socketpair": 1,
+                "listen": 1,
+                "shmat": 5,
+                "reboot": 7
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.300833Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-15933.txt",
+            "trace_length": 123
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getpid": 1,
+                "read": 1,
+                "getuid": 1,
+                "setxattr": 18,
+                "io_cancel": 25,
+                "shmctl": 8,
+                "shmdt": 11,
+                "semtimedop": 14,
+                "lsetxattr": 12,
+                "sched_get_priority_max": 11,
+                "mknodat": 3,
+                "syscall_268": 1,
+                "capset": 13,
+                "execve": 1,
+                "setdomainname": 1,
+                "io_getevents": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.300981Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-1613.txt",
+            "trace_length": 269
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 75,
+                "io_cancel": 49,
+                "reboot": 88,
+                "getitimer": 12,
+                "setuid": 11,
+                "geteuid": 11,
+                "sched_setscheduler": 4,
+                "kexec_load": 18,
+                "fchownat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.301137Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-2311.txt",
+            "trace_length": 292
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 113,
+                "syscall_265": 69,
+                "io_cancel": 68,
+                "shmctl": 3,
+                "syscall_43": 35,
+                "syscall_340": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.301325Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-2462.txt",
+            "trace_length": 450
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 131,
+                "io_cancel": 94,
+                "getcpu": 225
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.301454Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-2783.txt",
+            "trace_length": 161
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 64,
+                "syscall_265": 36,
+                "setuid": 18,
+                "io_cancel": 42,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.301573Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-3523.txt",
+            "trace_length": 142
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 14,
+                "syscall_309": 27,
+                "getitimer": 52,
+                "inotify_add_watch": 12,
+                "timerfd_create": 15,
+                "shmctl": 4,
+                "lsetxattr": 8,
+                "shmat": 3,
+                "fgetxattr": 5,
+                "syscall_265": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.301692Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-10-3524.txt",
+            "trace_length": 135
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 44,
+                "syscall_309": 23,
+                "inotify_add_watch": 16,
+                "timerfd_create": 11,
+                "shmctl": 7,
+                "shmat": 6,
+                "setxattr": 17,
+                "fgetxattr": 6,
+                "lsetxattr": 3,
+                "syscall_265": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.301939Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-1371.txt",
+            "trace_length": 290
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 208,
+                "syscall_265": 72,
+                "getitimer": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.302173Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-1442.txt",
+            "trace_length": 658
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 271,
+                "reboot": 194,
+                "setuid": 44,
+                "getitimer": 88,
+                "lsetxattr": 31,
+                "flistxattr": 9,
+                "shmctl": 21
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.302330Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-1613.txt",
+            "trace_length": 276
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 54,
+                "kexec_load": 15,
+                "reboot": 98,
+                "syscall_265": 78,
+                "setuid": 8,
+                "getitimer": 20,
+                "sched_setscheduler": 1,
+                "fchownat": 1,
+                "geteuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.302544Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-2311.txt",
+            "trace_length": 527
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 249,
+                "syscall_265": 110,
+                "io_cancel": 107,
+                "syscall_43": 53,
+                "syscall_340": 7,
+                "shmctl": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.302837Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-2462.txt",
+            "trace_length": 799
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 453,
+                "syscall_265": 203,
+                "io_cancel": 143
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.302991Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-2783.txt",
+            "trace_length": 246
+        },
+        "kernel": {
+            "syscall_counts": {
+                "eventfd2": 1,
+                "getcpu": 131,
+                "io_cancel": 41,
+                "syscall_265": 53,
+                "setuid": 19,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.303142Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-3523.txt",
+            "trace_length": 263
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmat": 11,
+                "inotify_add_watch": 26,
+                "setxattr": 25,
+                "shmctl": 17,
+                "syscall_309": 46,
+                "getitimer": 86,
+                "fgetxattr": 10,
+                "lsetxattr": 9,
+                "timerfd_create": 25,
+                "syscall_265": 8
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.303279Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-3524.txt",
+            "trace_length": 200
+        },
+        "kernel": {
+            "syscall_counts": {
+                "timerfd_create": 21,
+                "fgetxattr": 11,
+                "syscall_309": 32,
+                "getitimer": 67,
+                "syscall_265": 4,
+                "inotify_add_watch": 20,
+                "setxattr": 16,
+                "shmat": 8,
+                "shmctl": 16,
+                "lsetxattr": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.303480Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-9300.txt",
+            "trace_length": 482
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_getevents": 99,
+                "flistxattr": 129,
+                "rt_tgsigqueueinfo": 140,
+                "syscall_265": 36,
+                "readlinkat": 78
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.303597Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-9310.txt",
+            "trace_length": 116
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 2,
+                "lsetxattr": 10,
+                "io_cancel": 8,
+                "listxattr": 1,
+                "syscall_45": 1,
+                "mknodat": 9,
+                "semtimedop": 21,
+                "setxattr": 9,
+                "shmdt": 8,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 1,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "shmat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.303735Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-9374.txt",
+            "trace_length": 221
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getpid": 1,
+                "io_cancel": 42,
+                "setxattr": 35,
+                "shmctl": 8,
+                "semtimedop": 39,
+                "reboot": 2,
+                "getitimer": 3,
+                "shmdt": 19,
+                "lsetxattr": 28,
+                "sched_get_priority_max": 14,
+                "mknodat": 7,
+                "syscall_268": 1,
+                "capset": 15,
+                "getuid": 1,
+                "flistxattr": 1,
+                "setpriority": 1,
+                "shmat": 1,
+                "readlinkat": 1,
+                "setdomainname": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.303862Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-9400.txt",
+            "trace_length": 166
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 21,
+                "shmdt": 14,
+                "sched_get_priority_max": 6,
+                "semtimedop": 19,
+                "capset": 18,
+                "lsetxattr": 17,
+                "io_cancel": 35,
+                "shmctl": 7,
+                "flistxattr": 4,
+                "shmat": 2,
+                "socketpair": 2,
+                "setpriority": 5,
+                "syscall_45": 1,
+                "mknodat": 1,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "execve": 2,
+                "listen": 1,
+                "getitimer": 5,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.303968Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-9402.txt",
+            "trace_length": 105
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 20,
+                "shmctl": 2,
+                "setxattr": 15,
+                "shmdt": 13,
+                "semtimedop": 24,
+                "lsetxattr": 10,
+                "sched_get_priority_max": 7,
+                "mknodat": 5,
+                "syscall_268": 1,
+                "capset": 5,
+                "getuid": 1,
+                "getitimer": 1,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.304094Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-9454.txt",
+            "trace_length": 151
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 21,
+                "setxattr": 27,
+                "lsetxattr": 24,
+                "sched_get_priority_max": 17,
+                "semtimedop": 24,
+                "capset": 12,
+                "mknodat": 6,
+                "shmdt": 6,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "getuid": 1,
+                "sched_setaffinity": 1,
+                "shmctl": 4,
+                "flistxattr": 1,
+                "shmat": 1,
+                "getitimer": 1,
+                "execve": 2,
+                "setpriority": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.304204Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-9476.txt",
+            "trace_length": 107
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmctl": 3,
+                "lsetxattr": 14,
+                "semtimedop": 27,
+                "setxattr": 16,
+                "capset": 7,
+                "sched_get_priority_max": 9,
+                "shmdt": 13,
+                "io_cancel": 13,
+                "mknodat": 4,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.304325Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-9506.txt",
+            "trace_length": 129
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 15,
+                "lsetxattr": 24,
+                "sched_get_priority_max": 15,
+                "capset": 11,
+                "setxattr": 19,
+                "shmdt": 6,
+                "mknodat": 6,
+                "semtimedop": 12,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "getuid": 2,
+                "geteuid": 1,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "shmctl": 5,
+                "flistxattr": 2,
+                "shmat": 1,
+                "socketpair": 1,
+                "getitimer": 1,
+                "setpriority": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.304439Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-2-9637.txt",
+            "trace_length": 111
+        },
+        "kernel": {
+            "syscall_counts": {
+                "quotactl": 1,
+                "shmctl": 4,
+                "shmdt": 4,
+                "lsetxattr": 11,
+                "setxattr": 12,
+                "mknodat": 2,
+                "io_cancel": 22,
+                "sched_get_priority_max": 7,
+                "semtimedop": 5,
+                "sched_setaffinity": 1,
+                "capset": 8,
+                "execve": 8,
+                "setpriority": 3,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "socketpair": 1,
+                "listen": 1,
+                "flistxattr": 3,
+                "getitimer": 7,
+                "shmat": 2,
+                "reboot": 1,
+                "setdomainname": 2,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.304681Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-10487.txt",
+            "trace_length": 149
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 25,
+                "lsetxattr": 16,
+                "capset": 8,
+                "socketpair": 2,
+                "shmctl": 1,
+                "setxattr": 14,
+                "shmdt": 9,
+                "semtimedop": 14,
+                "getitimer": 11,
+                "mknodat": 5,
+                "sched_get_priority_max": 3,
+                "execve": 12,
+                "setpriority": 5,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "listen": 1,
+                "flistxattr": 3,
+                "shmat": 4,
+                "reboot": 6,
+                "io_getevents": 4,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.304818Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-10640.txt",
+            "trace_length": 144
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readv": 1,
+                "shmctl": 6,
+                "getitimer": 3,
+                "execve": 1,
+                "flistxattr": 1,
+                "io_cancel": 28,
+                "setxattr": 27,
+                "semtimedop": 17,
+                "lsetxattr": 22,
+                "sched_get_priority_max": 14,
+                "shmdt": 4,
+                "mknodat": 5,
+                "syscall_268": 1,
+                "capset": 10,
+                "shmat": 1,
+                "socketpair": 1,
+                "syscall_45": 1,
+                "reboot": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.304943Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-10746.txt",
+            "trace_length": 116
+        },
+        "kernel": {
+            "syscall_counts": {
+                "writev": 1,
+                "capset": 8,
+                "getuid": 3,
+                "io_cancel": 10,
+                "shmctl": 5,
+                "setxattr": 23,
+                "shmdt": 6,
+                "sched_get_priority_max": 19,
+                "semtimedop": 12,
+                "mknodat": 6,
+                "lsetxattr": 11,
+                "syscall_268": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "sched_setaffinity": 1,
+                "getitimer": 1,
+                "setpriority": 1,
+                "io_getevents": 1,
+                "reboot": 1,
+                "execve": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.305091Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-10800.txt",
+            "trace_length": 214
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 44,
+                "shmctl": 4,
+                "setxattr": 36,
+                "shmdt": 9,
+                "semtimedop": 23,
+                "lsetxattr": 25,
+                "sched_get_priority_max": 17,
+                "mknodat": 6,
+                "syscall_268": 1,
+                "capset": 10,
+                "syscall_258": 1,
+                "getuid": 3,
+                "sched_setaffinity": 1,
+                "shmat": 2,
+                "socketpair": 2,
+                "getitimer": 6,
+                "setdomainname": 2,
+                "io_getevents": 5,
+                "execve": 3,
+                "setpriority": 2,
+                "inotify_add_watch": 3,
+                "listen": 1,
+                "flistxattr": 3,
+                "reboot": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.305223Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-10824.txt",
+            "trace_length": 153
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 1,
+                "capset": 17,
+                "lsetxattr": 21,
+                "io_cancel": 26,
+                "setxattr": 27,
+                "semtimedop": 23,
+                "sched_get_priority_max": 14,
+                "shmctl": 5,
+                "mknodat": 4,
+                "syscall_268": 1,
+                "shmdt": 7,
+                "socketpair": 1,
+                "io_getevents": 4,
+                "execve": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.305356Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-10829.txt",
+            "trace_length": 169
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 37,
+                "shmctl": 7,
+                "setxattr": 25,
+                "shmdt": 13,
+                "semtimedop": 26,
+                "lsetxattr": 20,
+                "sched_get_priority_max": 16,
+                "mknodat": 7,
+                "syscall_268": 1,
+                "capset": 13,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "shmat": 1,
+                "getitimer": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.305504Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-11010.txt",
+            "trace_length": 227
+        },
+        "kernel": {
+            "syscall_counts": {
+                "lsetxattr": 29,
+                "mknodat": 5,
+                "setxattr": 30,
+                "io_cancel": 38,
+                "shmdt": 25,
+                "semtimedop": 38,
+                "sched_get_priority_max": 12,
+                "capset": 19,
+                "shmctl": 10,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "getuid": 3,
+                "geteuid": 1,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "flistxattr": 1,
+                "shmat": 2,
+                "socketpair": 1,
+                "getitimer": 5,
+                "readlinkat": 1,
+                "reboot": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.305689Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-1371.txt",
+            "trace_length": 397
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 271,
+                "syscall_265": 110,
+                "getitimer": 16
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.306116Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-1442.txt",
+            "trace_length": 1271
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 360,
+                "readlinkat": 531,
+                "shmctl": 41,
+                "getitimer": 175,
+                "lsetxattr": 58,
+                "setuid": 71,
+                "flistxattr": 35
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.306384Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-1613.txt",
+            "trace_length": 478
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 102,
+                "kexec_load": 45,
+                "syscall_265": 149,
+                "reboot": 136,
+                "setuid": 20,
+                "getitimer": 23,
+                "geteuid": 1,
+                "capset": 1,
+                "fchownat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.306649Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-2311.txt",
+            "trace_length": 716
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 300,
+                "io_cancel": 135,
+                "syscall_265": 185,
+                "syscall_43": 85,
+                "syscall_340": 5,
+                "shmctl": 6
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.307028Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-2462.txt",
+            "trace_length": 1200
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 635,
+                "syscall_265": 336,
+                "io_cancel": 229
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.307211Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-2783.txt",
+            "trace_length": 375
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 78,
+                "setuid": 32,
+                "io_cancel": 63,
+                "getcpu": 194,
+                "readlinkat": 4,
+                "io_getevents": 3,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.307386Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-3523.txt",
+            "trace_length": 371
+        },
+        "kernel": {
+            "syscall_counts": {
+                "timerfd_create": 42,
+                "shmat": 11,
+                "inotify_add_watch": 42,
+                "syscall_265": 14,
+                "getitimer": 117,
+                "shmctl": 29,
+                "fgetxattr": 10,
+                "syscall_309": 63,
+                "setxattr": 34,
+                "lsetxattr": 9
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.307559Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-3524.txt",
+            "trace_length": 358
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 112,
+                "timerfd_create": 57,
+                "shmat": 13,
+                "inotify_add_watch": 28,
+                "shmctl": 42,
+                "setxattr": 34,
+                "syscall_309": 37,
+                "syscall_265": 10,
+                "fgetxattr": 12,
+                "lsetxattr": 13
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.307709Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-3754.txt",
+            "trace_length": 278
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 67,
+                "syscall_265": 5,
+                "rt_tgsigqueueinfo": 23,
+                "readlinkat": 97,
+                "getcpu": 74,
+                "io_getevents": 1,
+                "setuid": 4,
+                "mknodat": 3,
+                "setxattr": 1,
+                "semctl": 1,
+                "shmdt": 1,
+                "semtimedop": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.307837Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-3761.txt",
+            "trace_length": 145
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 35,
+                "io_cancel": 1,
+                "getcpu": 61,
+                "syscall_265": 1,
+                "io_getevents": 24,
+                "getitimer": 21,
+                "fchownat": 1,
+                "rt_tgsigqueueinfo": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.307938Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-8978.txt",
+            "trace_length": 109
+        },
+        "kernel": {
+            "syscall_counts": {
+                "sched_getscheduler": 25,
+                "lsetxattr": 18,
+                "getitimer": 27,
+                "fsetxattr": 27,
+                "sched_setscheduler": 2,
+                "inotify_add_watch": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.308236Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-9300.txt",
+            "trace_length": 932
+        },
+        "kernel": {
+            "syscall_counts": {
+                "flistxattr": 287,
+                "readlinkat": 169,
+                "io_getevents": 168,
+                "rt_tgsigqueueinfo": 221,
+                "syscall_265": 86,
+                "setxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.308355Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-3-961.txt",
+            "trace_length": 176
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 87,
+                "setdomainname": 3,
+                "io_cancel": 36,
+                "shmdt": 7,
+                "lsetxattr": 21,
+                "capset": 18,
+                "readlinkat": 1,
+                "semtimedop": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.308629Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-11173.txt",
+            "trace_length": 488
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 54,
+                "rt_tgsigqueueinfo": 105,
+                "io_getevents": 70,
+                "readlinkat": 85,
+                "flistxattr": 172,
+                "setxattr": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.308758Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-11184.txt",
+            "trace_length": 170
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 53,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 13,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 25,
+                "setxattr": 11,
+                "shmdt": 11,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1,
+                "execve": 1,
+                "clone": 2,
+                "shmat": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.308936Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-11254.txt",
+            "trace_length": 113
+        },
+        "kernel": {
+            "syscall_counts": {
+                "lsetxattr": 10,
+                "capset": 7,
+                "io_cancel": 27,
+                "shmctl": 6,
+                "setxattr": 15,
+                "shmdt": 8,
+                "semtimedop": 14,
+                "sched_get_priority_max": 14,
+                "syscall_268": 1,
+                "mknodat": 3,
+                "flistxattr": 1,
+                "reboot": 2,
+                "setpriority": 1,
+                "inotify_add_watch": 2,
+                "getuid": 1,
+                "execve": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.309138Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-11258.txt",
+            "trace_length": 181
+        },
+        "kernel": {
+            "syscall_counts": {
+                "capset": 19,
+                "setxattr": 25,
+                "setpriority": 7,
+                "shmdt": 23,
+                "semtimedop": 31,
+                "reboot": 2,
+                "readlinkat": 1,
+                "io_cancel": 34,
+                "shmctl": 8,
+                "lsetxattr": 19,
+                "sched_get_priority_max": 5,
+                "mknodat": 3,
+                "syscall_268": 1,
+                "flistxattr": 1,
+                "shmat": 1,
+                "socketpair": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.309393Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-11316.txt",
+            "trace_length": 541
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmctl": 97,
+                "writev": 1,
+                "close": 1,
+                "fchownat": 2,
+                "execve": 19,
+                "read": 17,
+                "getuid": 4,
+                "sched_get_priority_max": 1,
+                "geteuid": 186,
+                "setxattr": 74,
+                "lsetxattr": 9,
+                "syscall_45": 41,
+                "bind": 2,
+                "io_cancel": 15,
+                "write": 1,
+                "mknodat": 14,
+                "readlinkat": 1,
+                "semctl": 1,
+                "io_getevents": 19,
+                "accept": 2,
+                "syscall_307": 12,
+                "fsetxattr": 3,
+                "sched_getscheduler": 2,
+                "nfsservctl": 1,
+                "sched_setscheduler": 1,
+                "listen": 6,
+                "socketpair": 1,
+                "flistxattr": 8
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.309540Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-11384.txt",
+            "trace_length": 140
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getpid": 1,
+                "getitimer": 14,
+                "lsetxattr": 9,
+                "sched_get_priority_max": 2,
+                "capset": 4,
+                "semtimedop": 3,
+                "setxattr": 8,
+                "shmctl": 1,
+                "io_cancel": 32,
+                "mknodat": 2,
+                "setpriority": 6,
+                "inotify_add_watch": 6,
+                "getuid": 4,
+                "execve": 16,
+                "socketpair": 2,
+                "listen": 2,
+                "flistxattr": 7,
+                "shmdt": 2,
+                "shmat": 6,
+                "reboot": 9,
+                "io_getevents": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.309732Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-1371.txt",
+            "trace_length": 176
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 55,
+                "getcpu": 114,
+                "getitimer": 7
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.310083Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-1442.txt",
+            "trace_length": 807
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 184,
+                "getitimer": 114,
+                "readlinkat": 400,
+                "lsetxattr": 27,
+                "flistxattr": 24,
+                "setuid": 46,
+                "shmctl": 12
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.310283Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-1613.txt",
+            "trace_length": 349
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 55,
+                "kexec_load": 18,
+                "reboot": 124,
+                "syscall_265": 72,
+                "setuid": 32,
+                "geteuid": 21,
+                "getitimer": 14,
+                "capset": 2,
+                "sched_setscheduler": 10,
+                "semtimedop": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.310463Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-2311.txt",
+            "trace_length": 323
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 66,
+                "getcpu": 135,
+                "syscall_43": 41,
+                "shmctl": 3,
+                "syscall_265": 77,
+                "syscall_340": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.310684Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-2462.txt",
+            "trace_length": 525
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 275,
+                "syscall_265": 135,
+                "io_cancel": 105,
+                "setuid": 5,
+                "lsetxattr": 2,
+                "readlinkat": 2,
+                "shmdt": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.310809Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-2783.txt",
+            "trace_length": 164
+        },
+        "kernel": {
+            "syscall_counts": {
+                "eventfd2": 1,
+                "syscall_265": 36,
+                "getcpu": 82,
+                "setuid": 11,
+                "io_cancel": 28,
+                "readlinkat": 2,
+                "nfsservctl": 1,
+                "fchownat": 1,
+                "linkat": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.310946Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-3523.txt",
+            "trace_length": 129
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_309": 14,
+                "getitimer": 36,
+                "shmctl": 11,
+                "syscall_265": 6,
+                "inotify_add_watch": 13,
+                "timerfd_create": 17,
+                "shmat": 7,
+                "fgetxattr": 9,
+                "setxattr": 15,
+                "lsetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.311045Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-4-3524.txt",
+            "trace_length": 106
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_309": 13,
+                "getitimer": 32,
+                "inotify_add_watch": 13,
+                "timerfd_create": 12,
+                "setxattr": 10,
+                "syscall_265": 5,
+                "shmctl": 7,
+                "fgetxattr": 8,
+                "shmat": 3,
+                "lsetxattr": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.311396Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-11504.txt",
+            "trace_length": 556
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_getevents": 113,
+                "flistxattr": 177,
+                "rt_tgsigqueueinfo": 117,
+                "syscall_265": 51,
+                "readlinkat": 98
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.311490Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-11539.txt",
+            "trace_length": 108
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 3,
+                "getuid": 22,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 10,
+                "io_cancel": 8,
+                "listxattr": 1,
+                "syscall_45": 1,
+                "mknodat": 9,
+                "semtimedop": 21,
+                "setxattr": 8,
+                "shmdt": 8,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 1,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.311598Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-11611.txt",
+            "trace_length": 124
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmctl": 2,
+                "semtimedop": 9,
+                "sched_get_priority_max": 5,
+                "io_cancel": 32,
+                "capset": 8,
+                "mknodat": 3,
+                "setxattr": 8,
+                "execve": 9,
+                "setpriority": 4,
+                "inotify_add_watch": 6,
+                "getuid": 4,
+                "lsetxattr": 5,
+                "socketpair": 2,
+                "listen": 2,
+                "flistxattr": 6,
+                "getitimer": 11,
+                "shmdt": 1,
+                "shmat": 2,
+                "reboot": 2,
+                "io_getevents": 2,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.311714Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-11642.txt",
+            "trace_length": 181
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 1,
+                "capset": 15,
+                "semtimedop": 33,
+                "setxattr": 29,
+                "io_cancel": 36,
+                "sched_get_priority_max": 15,
+                "mknodat": 7,
+                "shmctl": 6,
+                "shmdt": 13,
+                "lsetxattr": 23,
+                "syscall_268": 1,
+                "shmat": 1,
+                "socketpair": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.311810Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-11650.txt",
+            "trace_length": 113
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 4,
+                "getuid": 4,
+                "getpid": 1,
+                "sched_setaffinity": 1,
+                "reboot": 2,
+                "capset": 16,
+                "setxattr": 16,
+                "semtimedop": 8,
+                "lsetxattr": 16,
+                "io_cancel": 20,
+                "shmdt": 5,
+                "mknodat": 1,
+                "sched_get_priority_max": 5,
+                "shmctl": 7,
+                "flistxattr": 1,
+                "shmat": 1,
+                "socketpair": 1,
+                "setpriority": 2,
+                "io_getevents": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.311908Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-11665.txt",
+            "trace_length": 142
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 3,
+                "shmdt": 7,
+                "io_cancel": 24,
+                "shmctl": 5,
+                "setxattr": 27,
+                "semtimedop": 15,
+                "lsetxattr": 13,
+                "sched_get_priority_max": 23,
+                "mknodat": 5,
+                "syscall_268": 1,
+                "capset": 11,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "setpriority": 2,
+                "execve": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.312040Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-11763.txt",
+            "trace_length": 153
+        },
+        "kernel": {
+            "syscall_counts": {
+                "writev": 1,
+                "quotactl": 1,
+                "setpriority": 1,
+                "getitimer": 1,
+                "setxattr": 25,
+                "sched_get_priority_max": 15,
+                "capset": 8,
+                "lsetxattr": 19,
+                "io_cancel": 30,
+                "semtimedop": 26,
+                "mknodat": 6,
+                "shmctl": 4,
+                "shmdt": 14,
+                "syscall_268": 1,
+                "flistxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.312176Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-11784.txt",
+            "trace_length": 183
+        },
+        "kernel": {
+            "syscall_counts": {
+                "sched_setaffinity": 2,
+                "io_cancel": 26,
+                "shmdt": 7,
+                "semtimedop": 29,
+                "lsetxattr": 23,
+                "sched_get_priority_max": 18,
+                "shmctl": 6,
+                "setxattr": 31,
+                "mknodat": 8,
+                "syscall_268": 1,
+                "capset": 13,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "getuid": 2,
+                "getitimer": 4,
+                "execve": 2,
+                "io_getevents": 2,
+                "socketpair": 1,
+                "flistxattr": 1,
+                "shmat": 2,
+                "reboot": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.312270Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-11908.txt",
+            "trace_length": 105
+        },
+        "kernel": {
+            "syscall_counts": {
+                "semtimedop": 23,
+                "lsetxattr": 16,
+                "mknodat": 7,
+                "setxattr": 14,
+                "io_cancel": 15,
+                "shmdt": 12,
+                "sched_get_priority_max": 9,
+                "syscall_268": 1,
+                "capset": 7,
+                "shmctl": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.312483Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-1371.txt",
+            "trace_length": 274
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 183,
+                "syscall_265": 82,
+                "getitimer": 9
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.312769Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-1442.txt",
+            "trace_length": 744
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 203,
+                "flistxattr": 23,
+                "readlinkat": 329,
+                "getitimer": 99,
+                "setuid": 41,
+                "lsetxattr": 32,
+                "shmctl": 17
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.312936Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-1613.txt",
+            "trace_length": 338
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 95,
+                "reboot": 113,
+                "kexec_load": 23,
+                "setuid": 12,
+                "io_cancel": 72,
+                "getitimer": 20,
+                "sched_setscheduler": 1,
+                "geteuid": 1,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.313135Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-2311.txt",
+            "trace_length": 511
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 218,
+                "shmctl": 1,
+                "syscall_340": 7,
+                "io_cancel": 113,
+                "syscall_265": 128,
+                "syscall_43": 44
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.313392Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-2462.txt",
+            "trace_length": 762
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 220,
+                "io_cancel": 157,
+                "getcpu": 385
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.313521Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-2783.txt",
+            "trace_length": 242
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 52,
+                "getcpu": 129,
+                "io_cancel": 35,
+                "setuid": 26
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.313665Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-3523.txt",
+            "trace_length": 306
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_309": 45,
+                "inotify_add_watch": 37,
+                "timerfd_create": 35,
+                "shmctl": 25,
+                "shmat": 16,
+                "syscall_265": 15,
+                "getitimer": 86,
+                "setxattr": 27,
+                "fgetxattr": 10,
+                "lsetxattr": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.313804Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-3524.txt",
+            "trace_length": 300
+        },
+        "kernel": {
+            "syscall_counts": {
+                "timerfd_create": 36,
+                "syscall_309": 40,
+                "shmctl": 31,
+                "fgetxattr": 11,
+                "getitimer": 93,
+                "shmat": 16,
+                "setxattr": 25,
+                "inotify_add_watch": 26,
+                "syscall_265": 10,
+                "lsetxattr": 12
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.313902Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-5-961.txt",
+            "trace_length": 133
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 62,
+                "lsetxattr": 9,
+                "semtimedop": 5,
+                "io_cancel": 31,
+                "capset": 17,
+                "shmdt": 6,
+                "setdomainname": 2,
+                "getpriority": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.314268Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-611504.txt",
+            "trace_length": 840
+        },
+        "kernel": {
+            "syscall_counts": {
+                "flistxattr": 261,
+                "io_getevents": 153,
+                "rt_tgsigqueueinfo": 197,
+                "readlinkat": 142,
+                "syscall_265": 87
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.314369Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-612564.txt",
+            "trace_length": 115
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 25,
+                "shmctl": 2,
+                "setxattr": 22,
+                "shmdt": 11,
+                "semtimedop": 19,
+                "lsetxattr": 14,
+                "sched_get_priority_max": 12,
+                "mknodat": 3,
+                "syscall_268": 1,
+                "capset": 4,
+                "socketpair": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.314484Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-612596.txt",
+            "trace_length": 180
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 60,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 15,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 25,
+                "setxattr": 11,
+                "shmdt": 11,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 3,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1,
+                "execve": 1,
+                "clone": 2,
+                "shmat": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.314580Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-612700.txt",
+            "trace_length": 123
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 24,
+                "lsetxattr": 14,
+                "capset": 8,
+                "flistxattr": 1,
+                "shmat": 1,
+                "socketpair": 1,
+                "semtimedop": 26,
+                "setxattr": 16,
+                "mknodat": 5,
+                "shmdt": 14,
+                "sched_get_priority_max": 6,
+                "io_getevents": 1,
+                "shmctl": 2,
+                "syscall_268": 1,
+                "getitimer": 1,
+                "reboot": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.314669Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-612865.txt",
+            "trace_length": 106
+        },
+        "kernel": {
+            "syscall_counts": {
+                "capset": 10,
+                "mknodat": 2,
+                "setxattr": 6,
+                "execve": 11,
+                "setpriority": 3,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "io_cancel": 26,
+                "lsetxattr": 4,
+                "socketpair": 1,
+                "listen": 1,
+                "flistxattr": 4,
+                "getitimer": 11,
+                "shmdt": 1,
+                "semtimedop": 1,
+                "shmat": 4,
+                "reboot": 7,
+                "io_getevents": 4,
+                "shmctl": 3,
+                "sched_get_priority_max": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.314778Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-612872.txt",
+            "trace_length": 118
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getpid": 2,
+                "lsetxattr": 11,
+                "read": 3,
+                "shmdt": 4,
+                "getitimer": 11,
+                "writev": 1,
+                "epoll_create1": 1,
+                "readv": 1,
+                "quotactl": 1,
+                "flistxattr": 4,
+                "setxattr": 10,
+                "semtimedop": 6,
+                "io_cancel": 19,
+                "setpriority": 4,
+                "capset": 8,
+                "shmctl": 1,
+                "getuid": 7,
+                "syscall_340": 1,
+                "sched_setaffinity": 1,
+                "sched_getscheduler": 1,
+                "io_getevents": 3,
+                "mknodat": 1,
+                "inotify_add_watch": 3,
+                "execve": 6,
+                "socketpair": 1,
+                "listen": 1,
+                "shmat": 2,
+                "reboot": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.314891Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-612982.txt",
+            "trace_length": 136
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 7,
+                "sched_get_priority_max": 7,
+                "syscall_268": 1,
+                "setxattr": 18,
+                "shmdt": 9,
+                "semtimedop": 16,
+                "io_cancel": 26,
+                "lsetxattr": 12,
+                "capset": 9,
+                "mknodat": 3,
+                "shmctl": 1,
+                "setpriority": 3,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "execve": 6,
+                "socketpair": 1,
+                "listen": 1,
+                "flistxattr": 3,
+                "shmat": 2,
+                "reboot": 3,
+                "io_getevents": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.315001Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-613008.txt",
+            "trace_length": 157
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 32,
+                "shmctl": 4,
+                "setxattr": 28,
+                "shmdt": 10,
+                "semtimedop": 18,
+                "sched_get_priority_max": 21,
+                "lsetxattr": 14,
+                "syscall_268": 1,
+                "capset": 11,
+                "mknodat": 4,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "getuid": 1,
+                "geteuid": 1,
+                "sched_setaffinity": 1,
+                "socketpair": 1,
+                "getitimer": 4,
+                "inotify_add_watch": 1,
+                "reboot": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.315096Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-613099.txt",
+            "trace_length": 116
+        },
+        "kernel": {
+            "syscall_counts": {
+                "lsetxattr": 16,
+                "readlinkat": 1,
+                "setxattr": 20,
+                "semtimedop": 21,
+                "io_cancel": 20,
+                "sched_get_priority_max": 14,
+                "reboot": 1,
+                "capset": 7,
+                "syscall_268": 1,
+                "shmdt": 9,
+                "mknodat": 4,
+                "shmctl": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.315259Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-61371.txt",
+            "trace_length": 382
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 124,
+                "getcpu": 245,
+                "getitimer": 13
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.315595Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-61442.txt",
+            "trace_length": 1151
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 301,
+                "getitimer": 152,
+                "readlinkat": 505,
+                "setuid": 69,
+                "lsetxattr": 63,
+                "flistxattr": 31,
+                "shmctl": 30
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.315780Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-61613.txt",
+            "trace_length": 465
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 2,
+                "reboot": 136,
+                "io_cancel": 124,
+                "syscall_265": 131,
+                "getitimer": 24,
+                "setuid": 10,
+                "kexec_load": 38
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.316029Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-62311.txt",
+            "trace_length": 751
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 145,
+                "syscall_43": 80,
+                "getcpu": 315,
+                "syscall_265": 201,
+                "shmctl": 2,
+                "syscall_340": 8
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.316378Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-62462.txt",
+            "trace_length": 1157
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 630,
+                "io_cancel": 222,
+                "syscall_265": 305
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.316543Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-62783.txt",
+            "trace_length": 366
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 50,
+                "syscall_265": 85,
+                "getcpu": 189,
+                "setuid": 41,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.316707Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-63523.txt",
+            "trace_length": 392
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 108,
+                "shmctl": 39,
+                "timerfd_create": 59,
+                "syscall_309": 47,
+                "fgetxattr": 15,
+                "inotify_add_watch": 41,
+                "lsetxattr": 7,
+                "setxattr": 41,
+                "shmat": 26,
+                "syscall_265": 9
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.316854Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-63524.txt",
+            "trace_length": 325
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 110,
+                "timerfd_create": 32,
+                "syscall_309": 54,
+                "fgetxattr": 13,
+                "syscall_265": 10,
+                "inotify_add_watch": 34,
+                "lsetxattr": 12,
+                "setxattr": 27,
+                "shmat": 11,
+                "shmctl": 22
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.316994Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-68978.txt",
+            "trace_length": 124
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 36,
+                "sched_getscheduler": 20,
+                "fsetxattr": 45,
+                "lsetxattr": 13,
+                "inotify_add_watch": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.317099Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-6961.txt",
+            "trace_length": 129
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 60,
+                "shmdt": 9,
+                "capset": 14,
+                "semtimedop": 5,
+                "io_cancel": 28,
+                "setdomainname": 2,
+                "lsetxattr": 10,
+                "getpriority": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.317197Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-6=5738.txt",
+            "trace_length": 95
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setdomainname": 73,
+                "clock_getres": 22
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.317411Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-713277.txt",
+            "trace_length": 355
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 66,
+                "flistxattr": 126,
+                "io_getevents": 66,
+                "rt_tgsigqueueinfo": 70,
+                "syscall_265": 27
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.317508Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-713288.txt",
+            "trace_length": 94
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 3,
+                "getuid": 22,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 10,
+                "io_cancel": 8,
+                "listxattr": 1,
+                "syscall_45": 1,
+                "mknodat": 9,
+                "semtimedop": 21,
+                "setxattr": 8,
+                "shmdt": 8,
+                "recvmmsg": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.317607Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-713292.txt",
+            "trace_length": 132
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getpid": 1,
+                "shmdt": 8,
+                "readv": 1,
+                "getitimer": 1,
+                "capset": 15,
+                "io_getevents": 1,
+                "io_cancel": 26,
+                "shmctl": 5,
+                "setxattr": 21,
+                "semtimedop": 23,
+                "lsetxattr": 13,
+                "sched_get_priority_max": 11,
+                "mknodat": 2,
+                "syscall_268": 1,
+                "flistxattr": 1,
+                "socketpair": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.317705Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-713305.txt",
+            "trace_length": 133
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 25,
+                "reboot": 2,
+                "capset": 13,
+                "lsetxattr": 16,
+                "setxattr": 26,
+                "semtimedop": 18,
+                "syscall_45": 1,
+                "readlinkat": 1,
+                "sched_get_priority_max": 14,
+                "shmctl": 4,
+                "shmdt": 4,
+                "mknodat": 6,
+                "syscall_268": 1,
+                "shmat": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.317828Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-713306.txt",
+            "trace_length": 210
+        },
+        "kernel": {
+            "syscall_counts": {
+                "mknodat": 7,
+                "capset": 10,
+                "shmctl": 7,
+                "setxattr": 28,
+                "sched_get_priority_max": 16,
+                "lsetxattr": 22,
+                "io_cancel": 45,
+                "setpriority": 3,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "execve": 10,
+                "socketpair": 2,
+                "listen": 1,
+                "flistxattr": 5,
+                "getitimer": 7,
+                "shmdt": 8,
+                "semtimedop": 18,
+                "shmat": 4,
+                "reboot": 6,
+                "io_getevents": 3,
+                "setdomainname": 2,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.317931Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-713394.txt",
+            "trace_length": 103
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readv": 1,
+                "quotactl": 1,
+                "flistxattr": 4,
+                "setxattr": 5,
+                "shmdt": 3,
+                "semtimedop": 3,
+                "io_cancel": 18,
+                "setpriority": 4,
+                "lsetxattr": 4,
+                "capset": 6,
+                "shmctl": 1,
+                "getuid": 7,
+                "syscall_340": 1,
+                "getitimer": 13,
+                "getpid": 1,
+                "sched_setaffinity": 1,
+                "mknodat": 1,
+                "execve": 11,
+                "inotify_add_watch": 3,
+                "socketpair": 1,
+                "listen": 1,
+                "shmat": 4,
+                "setdomainname": 1,
+                "reboot": 5,
+                "io_getevents": 2,
+                "sched_get_priority_max": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.318034Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-71371.txt",
+            "trace_length": 140
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 97,
+                "syscall_265": 39,
+                "getitimer": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.318197Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-71442.txt",
+            "trace_length": 398
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 62,
+                "reboot": 97,
+                "readlinkat": 175,
+                "flistxattr": 11,
+                "setuid": 19,
+                "shmctl": 10,
+                "lsetxattr": 24
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.318315Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-71613.txt",
+            "trace_length": 199
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 40,
+                "reboot": 60,
+                "syscall_265": 59,
+                "kexec_load": 21,
+                "getitimer": 14,
+                "setuid": 4,
+                "geteuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.318462Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-72311.txt",
+            "trace_length": 301
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 145,
+                "syscall_265": 71,
+                "io_cancel": 55,
+                "syscall_43": 28,
+                "syscall_340": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.318691Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-72462.txt",
+            "trace_length": 525
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 286,
+                "syscall_265": 133,
+                "io_cancel": 106
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.318809Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-72783.txt",
+            "trace_length": 177
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setuid": 20,
+                "getcpu": 92,
+                "io_cancel": 29,
+                "syscall_265": 36
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.318925Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-73523.txt",
+            "trace_length": 143
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 4,
+                "inotify_add_watch": 15,
+                "shmat": 7,
+                "setxattr": 6,
+                "getitimer": 35,
+                "timerfd_create": 28,
+                "shmctl": 19,
+                "fgetxattr": 10,
+                "syscall_309": 13,
+                "lsetxattr": 6
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.319036Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-73524.txt",
+            "trace_length": 137
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmctl": 16,
+                "syscall_265": 7,
+                "syscall_309": 15,
+                "getitimer": 40,
+                "timerfd_create": 24,
+                "inotify_add_watch": 7,
+                "fgetxattr": 9,
+                "lsetxattr": 5,
+                "setxattr": 11,
+                "shmat": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.319273Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-13541.txt",
+            "trace_length": 383
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 90,
+                "flistxattr": 104,
+                "io_getevents": 92,
+                "readlinkat": 64,
+                "syscall_265": 33
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.319401Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-13561.txt",
+            "trace_length": 175
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 58,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 13,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 25,
+                "setxattr": 11,
+                "shmdt": 11,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1,
+                "execve": 1,
+                "clone": 2,
+                "shmat": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.319531Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-13638.txt",
+            "trace_length": 192
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 33,
+                "shmctl": 6,
+                "setxattr": 35,
+                "shmdt": 10,
+                "semtimedop": 29,
+                "lsetxattr": 24,
+                "sched_get_priority_max": 16,
+                "mknodat": 8,
+                "syscall_268": 1,
+                "capset": 14,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "getuid": 2,
+                "geteuid": 1,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "flistxattr": 1,
+                "shmat": 1,
+                "socketpair": 1,
+                "getitimer": 1,
+                "setpriority": 1,
+                "reboot": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.319685Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-1371.txt",
+            "trace_length": 296
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 96,
+                "getcpu": 189,
+                "getitimer": 11
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.319792Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-13849.txt",
+            "trace_length": 122
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 24,
+                "shmctl": 3,
+                "setxattr": 21,
+                "shmdt": 8,
+                "semtimedop": 19,
+                "lsetxattr": 19,
+                "sched_get_priority_max": 9,
+                "mknodat": 5,
+                "capset": 7,
+                "getuid": 1,
+                "sched_setaffinity": 1,
+                "getitimer": 1,
+                "io_getevents": 2,
+                "shmat": 1,
+                "reboot": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.320012Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-1442.txt",
+            "trace_length": 582
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 179,
+                "readlinkat": 228,
+                "getitimer": 80,
+                "flistxattr": 20,
+                "setuid": 30,
+                "lsetxattr": 29,
+                "shmctl": 16
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.320188Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-1613.txt",
+            "trace_length": 354
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 104,
+                "kexec_load": 35,
+                "io_cancel": 81,
+                "reboot": 101,
+                "geteuid": 1,
+                "setuid": 18,
+                "getitimer": 14
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.320426Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-2311.txt",
+            "trace_length": 676
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 270,
+                "io_cancel": 155,
+                "syscall_265": 171,
+                "syscall_43": 68,
+                "shmctl": 5,
+                "syscall_340": 7
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.320733Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-2462.txt",
+            "trace_length": 897
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 158,
+                "syscall_265": 275,
+                "getcpu": 464
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.320884Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-2783.txt",
+            "trace_length": 278
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 141,
+                "io_cancel": 47,
+                "syscall_265": 56,
+                "setuid": 33,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.321026Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-3523.txt",
+            "trace_length": 228
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmctl": 23,
+                "timerfd_create": 28,
+                "syscall_309": 29,
+                "getitimer": 66,
+                "syscall_265": 9,
+                "inotify_add_watch": 19,
+                "setxattr": 23,
+                "lsetxattr": 9,
+                "shmat": 14,
+                "fgetxattr": 8
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.321158Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-8-3524.txt",
+            "trace_length": 201
+        },
+        "kernel": {
+            "syscall_counts": {
+                "inotify_add_watch": 19,
+                "timerfd_create": 29,
+                "setxattr": 19,
+                "syscall_309": 30,
+                "fgetxattr": 11,
+                "getitimer": 62,
+                "shmctl": 18,
+                "syscall_265": 3,
+                "shmat": 9,
+                "lsetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.321556Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-13541.txt",
+            "trace_length": 895
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_getevents": 166,
+                "rt_tgsigqueueinfo": 154,
+                "readlinkat": 169,
+                "flistxattr": 319,
+                "syscall_265": 87
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.321738Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-1371.txt",
+            "trace_length": 371
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 118,
+                "getcpu": 237,
+                "getitimer": 16
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.321853Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14414.txt",
+            "trace_length": 118
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 24,
+                "setxattr": 11,
+                "shmdt": 2,
+                "semtimedop": 5,
+                "sched_get_priority_max": 6,
+                "lsetxattr": 10,
+                "syscall_268": 1,
+                "capset": 6,
+                "mknodat": 3,
+                "shmctl": 3,
+                "setpriority": 3,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "execve": 10,
+                "socketpair": 1,
+                "listen": 1,
+                "flistxattr": 4,
+                "getitimer": 8,
+                "shmat": 4,
+                "reboot": 7,
+                "io_getevents": 3,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.322258Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-1442.txt",
+            "trace_length": 1350
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 632,
+                "reboot": 331,
+                "getitimer": 182,
+                "flistxattr": 40,
+                "setuid": 69,
+                "shmctl": 34,
+                "lsetxattr": 62
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.322367Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14423.txt",
+            "trace_length": 128
+        },
+        "kernel": {
+            "syscall_counts": {
+                "capset": 11,
+                "lsetxattr": 8,
+                "readlinkat": 1,
+                "execve": 3,
+                "setdomainname": 1,
+                "io_cancel": 34,
+                "shmctl": 3,
+                "setxattr": 15,
+                "shmdt": 7,
+                "semtimedop": 11,
+                "sched_get_priority_max": 11,
+                "mknodat": 3,
+                "shmat": 3,
+                "syscall_45": 1,
+                "setpriority": 3,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "socketpair": 1,
+                "listen": 1,
+                "flistxattr": 3,
+                "getitimer": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.322512Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14457.txt",
+            "trace_length": 136
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 28,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.322641Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14493.txt",
+            "trace_length": 136
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 3,
+                "capset": 15,
+                "getitimer": 1,
+                "io_cancel": 27,
+                "shmctl": 5,
+                "setxattr": 23,
+                "shmdt": 6,
+                "semtimedop": 18,
+                "lsetxattr": 15,
+                "sched_get_priority_max": 14,
+                "mknodat": 5,
+                "syscall_268": 1,
+                "shmat": 1,
+                "setpriority": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.322761Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14651.txt",
+            "trace_length": 144
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getpid": 2,
+                "lsetxattr": 10,
+                "read": 3,
+                "shmdt": 7,
+                "getitimer": 12,
+                "writev": 1,
+                "epoll_create1": 1,
+                "readv": 1,
+                "quotactl": 1,
+                "flistxattr": 5,
+                "setxattr": 10,
+                "semtimedop": 11,
+                "io_cancel": 24,
+                "setpriority": 5,
+                "capset": 8,
+                "shmctl": 6,
+                "getuid": 7,
+                "syscall_340": 1,
+                "sched_setaffinity": 1,
+                "mknodat": 8,
+                "sched_get_priority_max": 5,
+                "inotify_add_watch": 3,
+                "execve": 6,
+                "socketpair": 1,
+                "listen": 1,
+                "shmat": 2,
+                "reboot": 1,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.322867Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14661.txt",
+            "trace_length": 106
+        },
+        "kernel": {
+            "syscall_counts": {
+                "sched_getscheduler": 1,
+                "lsetxattr": 4,
+                "io_cancel": 20,
+                "shmctl": 3,
+                "shmdt": 5,
+                "semtimedop": 17,
+                "setxattr": 10,
+                "mknodat": 4,
+                "sched_get_priority_max": 3,
+                "syscall_268": 1,
+                "getuid": 3,
+                "capset": 8,
+                "getitimer": 7,
+                "execve": 7,
+                "setpriority": 3,
+                "inotify_add_watch": 3,
+                "socketpair": 1,
+                "listen": 1,
+                "flistxattr": 3,
+                "shmat": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.322969Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14668.txt",
+            "trace_length": 124
+        },
+        "kernel": {
+            "syscall_counts": {
+                "capset": 5,
+                "mknodat": 2,
+                "setxattr": 5,
+                "execve": 16,
+                "setpriority": 3,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "io_cancel": 25,
+                "lsetxattr": 5,
+                "socketpair": 1,
+                "listen": 1,
+                "flistxattr": 7,
+                "getitimer": 18,
+                "shmdt": 1,
+                "semtimedop": 1,
+                "shmat": 6,
+                "reboot": 15,
+                "io_getevents": 7,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.323068Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14700.txt",
+            "trace_length": 101
+        },
+        "kernel": {
+            "syscall_counts": {
+                "quotactl": 1,
+                "setxattr": 11,
+                "shmdt": 3,
+                "semtimedop": 4,
+                "io_cancel": 18,
+                "setpriority": 4,
+                "lsetxattr": 5,
+                "capset": 5,
+                "shmctl": 1,
+                "getuid": 3,
+                "syscall_340": 1,
+                "getitimer": 10,
+                "sched_get_priority_max": 3,
+                "mknodat": 1,
+                "inotify_add_watch": 3,
+                "execve": 10,
+                "socketpair": 1,
+                "listen": 1,
+                "flistxattr": 3,
+                "shmat": 4,
+                "reboot": 6,
+                "io_getevents": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.323183Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14814.txt",
+            "trace_length": 98
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 24,
+                "sched_get_priority_max": 2,
+                "mknodat": 3,
+                "semtimedop": 4,
+                "lsetxattr": 5,
+                "capset": 4,
+                "setxattr": 3,
+                "execve": 11,
+                "setpriority": 3,
+                "inotify_add_watch": 3,
+                "getuid": 2,
+                "socketpair": 1,
+                "listen": 1,
+                "flistxattr": 4,
+                "getitimer": 10,
+                "shmdt": 1,
+                "shmat": 4,
+                "reboot": 7,
+                "io_getevents": 6
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.323313Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14853.txt",
+            "trace_length": 207
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmdt": 25,
+                "capset": 17,
+                "io_cancel": 33,
+                "shmctl": 5,
+                "setxattr": 25,
+                "semtimedop": 39,
+                "lsetxattr": 26,
+                "sched_get_priority_max": 11,
+                "mknodat": 7,
+                "syscall_268": 1,
+                "flistxattr": 1,
+                "shmat": 1,
+                "socketpair": 1,
+                "getitimer": 5,
+                "execve": 2,
+                "setpriority": 4,
+                "reboot": 2,
+                "setdomainname": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.323420Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-14945.txt",
+            "trace_length": 158
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 32,
+                "shmctl": 3,
+                "setxattr": 22,
+                "shmdt": 14,
+                "semtimedop": 23,
+                "lsetxattr": 15,
+                "sched_get_priority_max": 15,
+                "mknodat": 10,
+                "syscall_268": 1,
+                "capset": 6,
+                "shmat": 3,
+                "getitimer": 3,
+                "execve": 4,
+                "setpriority": 2,
+                "inotify_add_watch": 2,
+                "getuid": 1,
+                "flistxattr": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.323631Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-1613.txt",
+            "trace_length": 478
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 92,
+                "setuid": 20,
+                "reboot": 166,
+                "kexec_load": 34,
+                "syscall_265": 130,
+                "getitimer": 35,
+                "geteuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.323890Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-2311.txt",
+            "trace_length": 720
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 295,
+                "syscall_265": 184,
+                "io_cancel": 150,
+                "syscall_43": 81,
+                "syscall_340": 8,
+                "shmctl": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.324252Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-2462.txt",
+            "trace_length": 1113
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 321,
+                "getcpu": 575,
+                "io_cancel": 217
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.324426Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-2783.txt",
+            "trace_length": 339
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 52,
+                "setuid": 37,
+                "getcpu": 182,
+                "syscall_265": 68
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.324598Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-3523.txt",
+            "trace_length": 360
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmctl": 28,
+                "syscall_309": 51,
+                "getitimer": 116,
+                "inotify_add_watch": 28,
+                "shmat": 16,
+                "syscall_265": 10,
+                "fgetxattr": 13,
+                "timerfd_create": 42,
+                "setxattr": 38,
+                "lsetxattr": 18
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.324771Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-3524.txt",
+            "trace_length": 362
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 15,
+                "getitimer": 114,
+                "syscall_309": 42,
+                "inotify_add_watch": 28,
+                "fgetxattr": 19,
+                "setxattr": 43,
+                "lsetxattr": 15,
+                "shmctl": 29,
+                "timerfd_create": 41,
+                "shmat": 16
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.324883Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-8978.txt",
+            "trace_length": 114
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 29,
+                "fsetxattr": 42,
+                "sched_getscheduler": 24,
+                "lsetxattr": 15,
+                "sched_setscheduler": 1,
+                "inotify_add_watch": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.325001Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Hydra-FTP-9-961.txt",
+            "trace_length": 146
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 35,
+                "lsetxattr": 20,
+                "capset": 19,
+                "setxattr": 62,
+                "shmdt": 4,
+                "semtimedop": 3,
+                "setdomainname": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Hydra_FTP"
+    }
+]

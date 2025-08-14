@@ -1,0 +1,2818 @@
+[
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.406271Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-1-1371.txt",
+            "trace_length": 320
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 188,
+                "syscall_265": 122,
+                "getitimer": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.406450Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-1-1613.txt",
+            "trace_length": 422
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 68,
+                "io_cancel": 99,
+                "geteuid": 56,
+                "reboot": 108,
+                "kexec_load": 42,
+                "sched_setscheduler": 8,
+                "setuid": 39,
+                "semtimedop": 1,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.406597Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-1-16391.txt",
+            "trace_length": 180
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 60,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 15,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 25,
+                "setxattr": 11,
+                "shmdt": 11,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 3,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1,
+                "execve": 1,
+                "clone": 2,
+                "shmat": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.406701Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-1-2293.txt",
+            "trace_length": 132
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 20,
+                "io_cancel": 21,
+                "syscall_265": 12,
+                "syscall_292": 2,
+                "readlinkat": 57,
+                "flistxattr": 3,
+                "shmctl": 4,
+                "setxattr": 6,
+                "semtimedop": 4,
+                "mknodat": 1,
+                "capset": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.406949Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-1-2311.txt",
+            "trace_length": 658
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 234,
+                "getcpu": 211,
+                "io_cancel": 139,
+                "syscall_43": 62,
+                "syscall_340": 7,
+                "shmctl": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.407391Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-1-2462.txt",
+            "trace_length": 1097
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 407,
+                "getcpu": 423,
+                "io_cancel": 265,
+                "setuid": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.407543Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-1-2783.txt",
+            "trace_length": 322
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 74,
+                "getcpu": 159,
+                "setuid": 30,
+                "io_cancel": 56,
+                "readlinkat": 2,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.407766Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-10-1371.txt",
+            "trace_length": 365
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 136,
+                "getcpu": 224,
+                "getitimer": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.407901Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-10-1533.txt",
+            "trace_length": 85
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 24,
+                "getcpu": 10,
+                "lsetxattr": 1,
+                "fsetxattr": 1,
+                "io_cancel": 4,
+                "getitimer": 36,
+                "setxattr": 7,
+                "shmdt": 1,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.408033Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-10-1613.txt",
+            "trace_length": 227
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 40,
+                "io_cancel": 35,
+                "reboot": 70,
+                "kexec_load": 13,
+                "geteuid": 32,
+                "setuid": 26,
+                "sched_setscheduler": 11
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.408132Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-10-17465.txt",
+            "trace_length": 113
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 10,
+                "io_cancel": 8,
+                "listxattr": 1,
+                "syscall_45": 1,
+                "mknodat": 9,
+                "semtimedop": 21,
+                "setxattr": 8,
+                "shmdt": 8,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 1,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.408228Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-10-2293.txt",
+            "trace_length": 90
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 18,
+                "getcpu": 33,
+                "setuid": 4,
+                "syscall_265": 23,
+                "shmctl": 1,
+                "readlinkat": 10,
+                "syscall_292": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.408526Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-10-2311.txt",
+            "trace_length": 850
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 187,
+                "getcpu": 305,
+                "syscall_265": 266,
+                "syscall_43": 80,
+                "syscall_340": 6,
+                "shmctl": 5,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.408934Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-10-2462.txt",
+            "trace_length": 1294
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 479,
+                "io_cancel": 296,
+                "getcpu": 516,
+                "setuid": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.409049Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-10-961.txt",
+            "trace_length": 169
+        },
+        "kernel": {
+            "syscall_counts": {
+                "capset": 30,
+                "shmdt": 7,
+                "setxattr": 70,
+                "lsetxattr": 17,
+                "io_cancel": 37,
+                "readlinkat": 2,
+                "setdomainname": 4,
+                "semtimedop": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.409267Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-2-1371.txt",
+            "trace_length": 344
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 122,
+                "getcpu": 207,
+                "getitimer": 15
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.409414Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-2-1533.txt",
+            "trace_length": 106
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 32,
+                "getcpu": 24,
+                "syscall_265": 25,
+                "io_cancel": 8,
+                "io_getevents": 1,
+                "mknodat": 1,
+                "sched_getscheduler": 1,
+                "fsetxattr": 1,
+                "lsetxattr": 3,
+                "setxattr": 4,
+                "shmdt": 2,
+                "capset": 3,
+                "setpriority": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.409746Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-2-1613.txt",
+            "trace_length": 894
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 149,
+                "io_cancel": 173,
+                "setuid": 115,
+                "semtimedop": 1,
+                "reboot": 272,
+                "geteuid": 87,
+                "kexec_load": 69,
+                "sched_setscheduler": 22,
+                "capset": 4,
+                "fchownat": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.409853Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-2-16493.txt",
+            "trace_length": 117
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 10,
+                "io_cancel": 8,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 21,
+                "setxattr": 9,
+                "shmdt": 8,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 1,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.409966Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-2-16513.txt",
+            "trace_length": 190
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_45": 1,
+                "semtimedop": 2,
+                "capset": 1,
+                "setxattr": 1,
+                "mknodat": 26,
+                "io_cancel": 137,
+                "io_getevents": 22
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.410251Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-2-16592.txt",
+            "trace_length": 924
+        },
+        "kernel": {
+            "syscall_counts": {
+                "semtimedop": 4,
+                "sched_get_priority_max": 2,
+                "getuid": 2,
+                "shmdt": 7,
+                "io_cancel": 433,
+                "setxattr": 31,
+                "shmat": 1,
+                "lsetxattr": 23,
+                "shmctl": 140,
+                "capset": 5,
+                "getitimer": 1,
+                "mknodat": 1,
+                "syscall_45": 2,
+                "eventfd2": 272
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.410355Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-2-2293.txt",
+            "trace_length": 133
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 34,
+                "getcpu": 19,
+                "io_cancel": 20,
+                "flistxattr": 2,
+                "readlinkat": 46,
+                "shmctl": 4,
+                "setuid": 2,
+                "rt_tgsigqueueinfo": 1,
+                "setxattr": 1,
+                "capset": 2,
+                "syscall_292": 1,
+                "semtimedop": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.410628Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-2-2311.txt",
+            "trace_length": 777
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 266,
+                "getcpu": 244,
+                "syscall_43": 82,
+                "io_cancel": 172,
+                "setuid": 3,
+                "syscall_340": 8,
+                "shmctl": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.411115Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-2-2462.txt",
+            "trace_length": 1348
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 501,
+                "getcpu": 533,
+                "io_cancel": 294,
+                "readlinkat": 4,
+                "setxattr": 4,
+                "semtimedop": 2,
+                "lsetxattr": 1,
+                "setuid": 6,
+                "shmdt": 1,
+                "capset": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.411345Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-2-2783.txt",
+            "trace_length": 442
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 84,
+                "getcpu": 202,
+                "setuid": 41,
+                "syscall_265": 100,
+                "io_getevents": 3,
+                "readlinkat": 9,
+                "setxattr": 2,
+                "sigaltstack": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.411555Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-3-1371.txt",
+            "trace_length": 284
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 165,
+                "syscall_265": 100,
+                "getitimer": 19
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.411879Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-3-1613.txt",
+            "trace_length": 812
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 115,
+                "reboot": 277,
+                "syscall_265": 132,
+                "semtimedop": 3,
+                "kexec_load": 39,
+                "setuid": 109,
+                "geteuid": 108,
+                "sched_setscheduler": 25,
+                "capset": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.411982Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-3-16644.txt",
+            "trace_length": 139
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 31,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.412178Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-3-2293.txt",
+            "trace_length": 510
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 80,
+                "io_cancel": 74,
+                "syscall_265": 144,
+                "shmctl": 7,
+                "readlinkat": 115,
+                "getitimer": 1,
+                "setxattr": 7,
+                "mknodat": 7,
+                "capset": 10,
+                "setuid": 15,
+                "rt_tgsigqueueinfo": 4,
+                "sched_getscheduler": 2,
+                "flistxattr": 4,
+                "shmdt": 2,
+                "sched_get_priority_max": 13,
+                "shmat": 3,
+                "semtimedop": 12,
+                "lsetxattr": 2,
+                "keyctl": 2,
+                "syscall_45": 3,
+                "io_getevents": 1,
+                "fsetxattr": 1,
+                "syscall_292": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.412349Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-3-2301.txt",
+            "trace_length": 167
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 47,
+                "getcpu": 56,
+                "syscall_292": 9,
+                "io_cancel": 39,
+                "setuid": 6,
+                "sched_setaffinity": 1,
+                "shmctl": 4,
+                "shmat": 1,
+                "setxattr": 1,
+                "mknodat": 1,
+                "nfsservctl": 1,
+                "fsetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.412661Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-3-2311.txt",
+            "trace_length": 708
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 230,
+                "getcpu": 229,
+                "syscall_43": 78,
+                "io_cancel": 160,
+                "syscall_340": 7,
+                "shmctl": 3,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.413048Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-3-2462.txt",
+            "trace_length": 1240
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 471,
+                "io_cancel": 308,
+                "syscall_265": 440,
+                "setuid": 7,
+                "readlinkat": 3,
+                "lsetxattr": 4,
+                "io_getevents": 1,
+                "setxattr": 5,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.413152Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-3-=16719.txt",
+            "trace_length": 129
+        },
+        "kernel": {
+            "syscall_counts": {
+                "lsetxattr": 29,
+                "syscall_45": 1,
+                "io_cancel": 35,
+                "capset": 15,
+                "setxattr": 21,
+                "semtimedop": 8,
+                "shmdt": 11,
+                "shmctl": 9
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.413456Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-4-1371.txt",
+            "trace_length": 331
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 115,
+                "getcpu": 203,
+                "getitimer": 13
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.413662Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-4-1613.txt",
+            "trace_length": 342
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 129,
+                "semtimedop": 3,
+                "io_cancel": 50,
+                "syscall_265": 57,
+                "kexec_load": 17,
+                "sched_setscheduler": 13,
+                "geteuid": 26,
+                "setuid": 47
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.413775Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-4-16801.txt",
+            "trace_length": 113
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 10,
+                "io_cancel": 8,
+                "listxattr": 1,
+                "syscall_45": 1,
+                "mknodat": 9,
+                "semtimedop": 21,
+                "setxattr": 8,
+                "shmdt": 8,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 1,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.413940Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-4-2293.txt",
+            "trace_length": 152
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 41,
+                "getcpu": 58,
+                "io_cancel": 36,
+                "readlinkat": 8,
+                "shmctl": 1,
+                "setuid": 6,
+                "fsetxattr": 1,
+                "syscall_292": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.414246Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-4-2311.txt",
+            "trace_length": 679
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 205,
+                "getcpu": 235,
+                "syscall_43": 67,
+                "io_cancel": 160,
+                "syscall_340": 6,
+                "shmctl": 5,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.414580Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-4-2462.txt",
+            "trace_length": 1097
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 434,
+                "io_cancel": 252,
+                "syscall_265": 405,
+                "setpriority": 1,
+                "setxattr": 1,
+                "lsetxattr": 2,
+                "setuid": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.414757Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-5-1371.txt",
+            "trace_length": 259
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 156,
+                "syscall_265": 96,
+                "getitimer": 7
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.414949Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-5-1613.txt",
+            "trace_length": 229
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 38,
+                "kexec_load": 14,
+                "reboot": 85,
+                "io_cancel": 36,
+                "geteuid": 26,
+                "setuid": 25,
+                "sched_setscheduler": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.415113Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-5-16878.txt",
+            "trace_length": 117
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 10,
+                "io_cancel": 8,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 21,
+                "setxattr": 9,
+                "shmdt": 8,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 1,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.415408Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-5-2311.txt",
+            "trace_length": 643
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 214,
+                "getcpu": 213,
+                "io_cancel": 144,
+                "syscall_43": 65,
+                "syscall_340": 6,
+                "shmctl": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.415748Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-5-2462.txt",
+            "trace_length": 1074
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 407,
+                "io_cancel": 240,
+                "syscall_265": 426,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.415945Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-1371.txt",
+            "trace_length": 305
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 179,
+                "syscall_265": 114,
+                "getitimer": 12
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.416099Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-1533.txt",
+            "trace_length": 103
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 21,
+                "getcpu": 21,
+                "getitimer": 44,
+                "shmctl": 2,
+                "io_cancel": 1,
+                "nfsservctl": 1,
+                "setxattr": 7,
+                "capset": 2,
+                "shmdt": 1,
+                "lsetxattr": 1,
+                "semtimedop": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.416369Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-1613.txt",
+            "trace_length": 518
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 126,
+                "setuid": 40,
+                "kexec_load": 37,
+                "syscall_265": 97,
+                "geteuid": 52,
+                "reboot": 145,
+                "sched_setscheduler": 15,
+                "capset": 2,
+                "fchownat": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.416478Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-16991.txt",
+            "trace_length": 154
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 46,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.416630Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-17027.txt",
+            "trace_length": 112
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 63,
+                "syscall_307": 1,
+                "syscall_45": 1,
+                "shmctl": 8,
+                "sched_getscheduler": 6,
+                "lsetxattr": 1,
+                "io_cancel": 12,
+                "fsetxattr": 3,
+                "fchownat": 8,
+                "flistxattr": 1,
+                "io_getevents": 2,
+                "setxattr": 1,
+                "sched_setscheduler": 1,
+                "getuid": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.416863Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-17041.txt",
+            "trace_length": 355
+        },
+        "kernel": {
+            "syscall_counts": {
+                "capset": 3,
+                "io_cancel": 166,
+                "shmctl": 47,
+                "setxattr": 16,
+                "clone": 1,
+                "shmdt": 2,
+                "lsetxattr": 8,
+                "semtimedop": 3,
+                "semctl": 1,
+                "syscall_45": 5,
+                "eventfd2": 103
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.417171Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-17044.txt",
+            "trace_length": 787
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 1,
+                "getuid": 3,
+                "shmdt": 8,
+                "timerfd_create": 2,
+                "shmctl": 212,
+                "setxattr": 31,
+                "io_cancel": 277,
+                "semtimedop": 3,
+                "lsetxattr": 14,
+                "sched_get_priority_max": 1,
+                "capset": 2,
+                "getpriority": 1,
+                "execve": 1,
+                "eventfd2": 230,
+                "syscall_45": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.417458Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-17082.txt",
+            "trace_length": 957
+        },
+        "kernel": {
+            "syscall_counts": {
+                "lsetxattr": 15,
+                "io_cancel": 450,
+                "sched_get_priority_max": 2,
+                "capset": 4,
+                "timerfd_create": 1,
+                "getuid": 1,
+                "setxattr": 21,
+                "shmdt": 3,
+                "shmat": 1,
+                "shmctl": 139,
+                "rt_tgsigqueueinfo": 1,
+                "setpriority": 1,
+                "semctl": 1,
+                "clone": 2,
+                "eventfd2": 313,
+                "syscall_45": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.417555Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-2293.txt",
+            "trace_length": 99
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 31,
+                "syscall_265": 33,
+                "io_cancel": 23,
+                "setuid": 4,
+                "shmctl": 1,
+                "readlinkat": 5,
+                "lsetxattr": 1,
+                "syscall_292": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.417841Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-2311.txt",
+            "trace_length": 618
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 205,
+                "getcpu": 198,
+                "io_cancel": 138,
+                "syscall_43": 66,
+                "shmctl": 6,
+                "syscall_340": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.418217Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-2462.txt",
+            "trace_length": 1164
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 451,
+                "getcpu": 416,
+                "io_cancel": 294,
+                "setuid": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.418376Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-2783.txt",
+            "trace_length": 339
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 159,
+                "syscall_265": 74,
+                "setuid": 27,
+                "io_cancel": 71,
+                "readlinkat": 4,
+                "io_getevents": 3,
+                "eventfd2": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.418588Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-6-961.txt",
+            "trace_length": 221
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 59,
+                "setxattr": 74,
+                "lsetxattr": 31,
+                "capset": 29,
+                "shmdt": 15,
+                "semtimedop": 8,
+                "getpriority": 2,
+                "readlinkat": 2,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.418844Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-7-1371.txt",
+            "trace_length": 292
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 174,
+                "syscall_265": 105,
+                "getitimer": 13
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.419040Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-7-1613.txt",
+            "trace_length": 298
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setuid": 41,
+                "io_cancel": 58,
+                "syscall_265": 48,
+                "kexec_load": 25,
+                "geteuid": 43,
+                "reboot": 72,
+                "sched_setscheduler": 8,
+                "capset": 2,
+                "semtimedop": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.419155Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-7-17144.txt",
+            "trace_length": 146
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 38,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.419297Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-7-2293.txt",
+            "trace_length": 198
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 43,
+                "getcpu": 33,
+                "io_cancel": 30,
+                "setuid": 7,
+                "readlinkat": 64,
+                "llistxattr": 1,
+                "sched_getscheduler": 1,
+                "shmctl": 8,
+                "lsetxattr": 1,
+                "semtimedop": 5,
+                "flistxattr": 2,
+                "setxattr": 2,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.419555Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-7-2311.txt",
+            "trace_length": 689
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_43": 60,
+                "syscall_265": 223,
+                "getcpu": 222,
+                "io_cancel": 173,
+                "syscall_340": 7,
+                "shmctl": 3,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.419892Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-7-2462.txt",
+            "trace_length": 1035
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 238,
+                "getcpu": 375,
+                "syscall_265": 422
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.420087Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-8-1371.txt",
+            "trace_length": 303
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 170,
+                "syscall_265": 120,
+                "getitimer": 13
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.420368Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-8-1613.txt",
+            "trace_length": 635
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 126,
+                "semtimedop": 4,
+                "capset": 2,
+                "reboot": 177,
+                "syscall_265": 99,
+                "kexec_load": 59,
+                "geteuid": 69,
+                "setuid": 80,
+                "sched_setscheduler": 18,
+                "fchownat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.420471Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-8-17243.txt",
+            "trace_length": 120
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 10,
+                "io_cancel": 9,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 22,
+                "setxattr": 9,
+                "shmdt": 9,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 1,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.420723Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-8-2293.txt",
+            "trace_length": 441
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 95,
+                "io_cancel": 68,
+                "setuid": 17,
+                "syscall_265": 58,
+                "shmctl": 13,
+                "readlinkat": 148,
+                "lsetxattr": 2,
+                "capset": 5,
+                "semtimedop": 7,
+                "fsetxattr": 1,
+                "setxattr": 8,
+                "flistxattr": 12,
+                "rt_tgsigqueueinfo": 3,
+                "syscall_292": 3,
+                "sched_get_priority_max": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.420991Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-8-2311.txt",
+            "trace_length": 720
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 154,
+                "syscall_265": 245,
+                "syscall_43": 76,
+                "getcpu": 230,
+                "syscall_340": 11,
+                "shmctl": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.421351Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-8-2462.txt",
+            "trace_length": 1152
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 440,
+                "syscall_265": 418,
+                "io_cancel": 279,
+                "lsetxattr": 2,
+                "semtimedop": 1,
+                "setxattr": 3,
+                "setuid": 7,
+                "readlinkat": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.421482Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-8-2783.txt",
+            "trace_length": 199
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setuid": 18,
+                "getcpu": 84,
+                "io_cancel": 40,
+                "syscall_265": 53,
+                "eventfd2": 3,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.421836Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-9-1371.txt",
+            "trace_length": 278
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 118,
+                "getcpu": 156,
+                "getitimer": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.422087Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-9-1613.txt",
+            "trace_length": 306
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 59,
+                "syscall_265": 48,
+                "kexec_load": 27,
+                "reboot": 78,
+                "geteuid": 47,
+                "setuid": 38,
+                "sched_setscheduler": 9
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.422342Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-9-17366.txt",
+            "trace_length": 97
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 3,
+                "getuid": 22,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 10,
+                "io_cancel": 8,
+                "listxattr": 1,
+                "syscall_45": 1,
+                "mknodat": 9,
+                "semtimedop": 21,
+                "setxattr": 8,
+                "shmdt": 8,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.422721Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-9-2311.txt",
+            "trace_length": 601
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 141,
+                "syscall_265": 222,
+                "getcpu": 190,
+                "syscall_43": 40,
+                "shmctl": 5,
+                "syscall_340": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.423179Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Meterpreter-9-2462.txt",
+            "trace_length": 1071
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 410,
+                "syscall_265": 424,
+                "io_cancel": 236,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Meterpreter"
+    }
+]

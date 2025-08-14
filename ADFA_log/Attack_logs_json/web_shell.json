@@ -1,0 +1,4451 @@
+[
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.423510Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-1371.txt",
+            "trace_length": 346
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 226,
+                "syscall_265": 112,
+                "getitimer": 8
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.423734Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-1613.txt",
+            "trace_length": 249
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 40,
+                "reboot": 53,
+                "io_cancel": 82,
+                "setuid": 9,
+                "fchownat": 2,
+                "geteuid": 31,
+                "kexec_load": 32
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.424038Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-2311.txt",
+            "trace_length": 694
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 184,
+                "io_cancel": 161,
+                "syscall_43": 56,
+                "getcpu": 283,
+                "shmctl": 2,
+                "syscall_340": 8
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.424330Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-2462.txt",
+            "trace_length": 892
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 183,
+                "syscall_265": 245,
+                "getcpu": 464
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.424504Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-2783.txt",
+            "trace_length": 303
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 45,
+                "syscall_265": 63,
+                "setuid": 27,
+                "getcpu": 166,
+                "io_getevents": 1,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.424597Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-4555.txt",
+            "trace_length": 87
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 35,
+                "getitimer": 32,
+                "kexec_load": 4,
+                "capset": 2,
+                "semtimedop": 2,
+                "setxattr": 3,
+                "readlinkat": 1,
+                "quotactl": 3,
+                "lsetxattr": 1,
+                "io_cancel": 3,
+                "flistxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.424761Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-4557.txt",
+            "trace_length": 167
+        },
+        "kernel": {
+            "syscall_counts": {
+                "kexec_load": 3,
+                "setxattr": 5,
+                "shmdt": 2,
+                "getitimer": 56,
+                "getcpu": 63,
+                "readlinkat": 10,
+                "getuid": 1,
+                "quotactl": 3,
+                "capset": 4,
+                "syscall_45": 6,
+                "lsetxattr": 4,
+                "getrlimit": 2,
+                "io_cancel": 1,
+                "semtimedop": 5,
+                "flistxattr": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.425006Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-4563.txt",
+            "trace_length": 290
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 10,
+                "shmctl": 4,
+                "kexec_load": 6,
+                "getuid": 2,
+                "quotactl": 3,
+                "shmat": 3,
+                "capset": 9,
+                "getitimer": 82,
+                "getcpu": 114,
+                "syscall_45": 13,
+                "semtimedop": 4,
+                "getrlimit": 4,
+                "llistxattr": 7,
+                "io_cancel": 3,
+                "mq_timedreceive": 2,
+                "flistxattr": 7,
+                "setxattr": 6,
+                "clone": 1,
+                "lsetxattr": 4,
+                "mknodat": 1,
+                "setuid": 2,
+                "syscall_43": 1,
+                "io_getevents": 1,
+                "execve": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.425181Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-4564.txt",
+            "trace_length": 242
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 1,
+                "setxattr": 5,
+                "getitimer": 66,
+                "getcpu": 89,
+                "syscall_45": 5,
+                "readlinkat": 15,
+                "io_cancel": 6,
+                "shmctl": 1,
+                "kexec_load": 9,
+                "quotactl": 4,
+                "flistxattr": 11,
+                "semtimedop": 4,
+                "lsetxattr": 6,
+                "capset": 7,
+                "llistxattr": 3,
+                "io_getevents": 2,
+                "getrlimit": 1,
+                "setuid": 1,
+                "mq_timedreceive": 1,
+                "sched_setaffinity": 1,
+                "shmdt": 1,
+                "syscall_331": 1,
+                "syscall_268": 1,
+                "sched_getscheduler": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.425299Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-4566.txt",
+            "trace_length": 184
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 32,
+                "getitimer": 47,
+                "getcpu": 62,
+                "capset": 10,
+                "setxattr": 2,
+                "getrlimit": 4,
+                "execve": 2,
+                "llistxattr": 4,
+                "io_cancel": 2,
+                "shmctl": 3,
+                "kexec_load": 2,
+                "getuid": 1,
+                "geteuid": 1,
+                "quotactl": 2,
+                "mq_timedreceive": 1,
+                "syscall_45": 1,
+                "semtimedop": 2,
+                "lsetxattr": 2,
+                "setuid": 2,
+                "flistxattr": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.425467Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-4568.txt",
+            "trace_length": 166
+        },
+        "kernel": {
+            "syscall_counts": {
+                "flistxattr": 3,
+                "getcpu": 68,
+                "getitimer": 51,
+                "readlinkat": 22,
+                "capset": 3,
+                "syscall_45": 2,
+                "kexec_load": 4,
+                "getrlimit": 4,
+                "setuid": 1,
+                "execve": 2,
+                "lsetxattr": 1,
+                "io_cancel": 2,
+                "semtimedop": 1,
+                "mq_timedreceive": 1,
+                "llistxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.425705Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-4569.txt",
+            "trace_length": 348
+        },
+        "kernel": {
+            "syscall_counts": {
+                "execve": 2,
+                "getitimer": 46,
+                "getcpu": 62,
+                "setxattr": 30,
+                "setpriority": 14,
+                "shmdt": 11,
+                "semtimedop": 15,
+                "capset": 28,
+                "lsetxattr": 15,
+                "shmctl": 36,
+                "shmat": 19,
+                "readlinkat": 9,
+                "kexec_load": 3,
+                "sched_getscheduler": 1,
+                "flistxattr": 8,
+                "mknodat": 31,
+                "sched_setaffinity": 1,
+                "syscall_45": 11,
+                "llistxattr": 1,
+                "setuid": 2,
+                "getrlimit": 2,
+                "io_cancel": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.425896Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-4605.txt",
+            "trace_length": 333
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getuid": 1,
+                "readlinkat": 9,
+                "getcpu": 46,
+                "getitimer": 35,
+                "syscall_45": 6,
+                "shmctl": 33,
+                "llistxattr": 2,
+                "kexec_load": 6,
+                "flistxattr": 19,
+                "capset": 33,
+                "semtimedop": 12,
+                "lsetxattr": 11,
+                "sched_setaffinity": 2,
+                "syscall_268": 1,
+                "setxattr": 42,
+                "clone": 1,
+                "setpriority": 6,
+                "shmat": 30,
+                "shmdt": 3,
+                "mknodat": 29,
+                "io_getevents": 2,
+                "io_cancel": 3,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.425999Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS1-961.txt",
+            "trace_length": 141
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 40,
+                "setxattr": 51,
+                "lsetxattr": 19,
+                "shmdt": 7,
+                "capset": 17,
+                "semtimedop": 4,
+                "setdomainname": 2,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.426221Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-1083.txt",
+            "trace_length": 77
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 77
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.426379Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-1086.txt",
+            "trace_length": 115
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 80,
+                "flistxattr": 35
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.426762Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-1371.txt",
+            "trace_length": 937
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 270,
+                "getcpu": 626,
+                "getitimer": 41
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.427026Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-1613.txt",
+            "trace_length": 724
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 214,
+                "syscall_265": 129,
+                "setuid": 37,
+                "io_cancel": 250,
+                "kexec_load": 90,
+                "capset": 1,
+                "sched_setscheduler": 1,
+                "geteuid": 1,
+                "fchownat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.427122Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-2301.txt",
+            "trace_length": 77
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 19,
+                "getcpu": 24,
+                "syscall_292": 31,
+                "io_cancel": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.427810Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-2311.txt",
+            "trace_length": 2161
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 845,
+                "syscall_265": 603,
+                "syscall_43": 198,
+                "io_cancel": 484,
+                "shmctl": 10,
+                "syscall_340": 20,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.427929Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-2424.txt",
+            "trace_length": 171
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 56,
+                "getcpu": 41,
+                "lsetxattr": 40,
+                "syscall_265": 34
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.428055Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-2487.txt",
+            "trace_length": 126
+        },
+        "kernel": {
+            "syscall_counts": {
+                "fsetxattr": 38,
+                "reboot": 88
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.428415Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-2783.txt",
+            "trace_length": 962
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setuid": 89,
+                "syscall_265": 212,
+                "getcpu": 514,
+                "io_cancel": 139,
+                "eventfd2": 1,
+                "readlinkat": 3,
+                "io_getevents": 3,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.428537Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-3754.txt",
+            "trace_length": 170
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 20,
+                "mknodat": 16,
+                "readlinkat": 56,
+                "io_cancel": 33,
+                "getcpu": 30,
+                "syscall_265": 10,
+                "setuid": 3,
+                "io_getevents": 1,
+                "getitimer": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.428686Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-3766.txt",
+            "trace_length": 102
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 26,
+                "io_getevents": 21,
+                "rt_tgsigqueueinfo": 50,
+                "readlinkat": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.428851Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-4548.txt",
+            "trace_length": 123
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 92,
+                "fsetxattr": 31
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.429019Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-4953.txt",
+            "trace_length": 119
+        },
+        "kernel": {
+            "syscall_counts": {
+                "execve": 1,
+                "quotactl": 1,
+                "readlinkat": 5,
+                "getcpu": 20,
+                "getitimer": 13,
+                "syscall_45": 3,
+                "setuid": 2,
+                "sched_setaffinity": 2,
+                "shmctl": 13,
+                "setxattr": 15,
+                "capset": 9,
+                "setpriority": 1,
+                "shmat": 4,
+                "semtimedop": 2,
+                "lsetxattr": 6,
+                "mknodat": 6,
+                "flistxattr": 6,
+                "kexec_load": 4,
+                "io_cancel": 2,
+                "clone": 1,
+                "mq_timedreceive": 1,
+                "syscall_331": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.429171Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-5314.txt",
+            "trace_length": 103
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 37,
+                "getitimer": 34,
+                "syscall_45": 2,
+                "mq_timedreceive": 3,
+                "sched_setaffinity": 1,
+                "sched_getscheduler": 2,
+                "lsetxattr": 3,
+                "io_cancel": 2,
+                "flistxattr": 3,
+                "readlinkat": 9,
+                "shmctl": 1,
+                "geteuid": 1,
+                "capset": 1,
+                "syscall_331": 1,
+                "fsetxattr": 1,
+                "kexec_load": 1,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.429348Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-5657.txt",
+            "trace_length": 205
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 47,
+                "io_getevents": 90,
+                "readlinkat": 18,
+                "flistxattr": 49,
+                "syscall_265": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.429576Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS10-961.txt",
+            "trace_length": 316
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 148,
+                "io_cancel": 73,
+                "setdomainname": 6,
+                "capset": 39,
+                "semtimedop": 14,
+                "lsetxattr": 22,
+                "shmdt": 12,
+                "readlinkat": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.429851Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-1371.txt",
+            "trace_length": 553
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 180,
+                "getcpu": 356,
+                "getitimer": 17
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.430049Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-1613.txt",
+            "trace_length": 476
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 135,
+                "io_cancel": 136,
+                "syscall_265": 88,
+                "setuid": 33,
+                "kexec_load": 54,
+                "geteuid": 25,
+                "sched_setscheduler": 2,
+                "fchownat": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.430382Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-2311.txt",
+            "trace_length": 965
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 278,
+                "syscall_43": 71,
+                "getcpu": 394,
+                "io_cancel": 210,
+                "syscall_340": 6,
+                "shmctl": 6
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.430800Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-2462.txt",
+            "trace_length": 1423
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 408,
+                "getcpu": 763,
+                "io_cancel": 252
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.431033Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-2783.txt",
+            "trace_length": 571
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 98,
+                "syscall_265": 109,
+                "getcpu": 287,
+                "io_getevents": 10,
+                "eventfd2": 6,
+                "setuid": 57,
+                "readlinkat": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.431137Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-4568.txt",
+            "trace_length": 114
+        },
+        "kernel": {
+            "syscall_counts": {
+                "llistxattr": 2,
+                "getcpu": 33,
+                "getitimer": 21,
+                "setxattr": 7,
+                "kexec_load": 4,
+                "syscall_45": 5,
+                "semtimedop": 2,
+                "getrlimit": 1,
+                "readlinkat": 5,
+                "syscall_331": 1,
+                "sched_getscheduler": 1,
+                "io_cancel": 7,
+                "lsetxattr": 3,
+                "flistxattr": 7,
+                "mknodat": 6,
+                "shmdt": 2,
+                "capset": 4,
+                "quotactl": 1,
+                "shmctl": 1,
+                "shmat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.431371Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-4569.txt",
+            "trace_length": 275
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 19,
+                "execve": 2,
+                "io_cancel": 214,
+                "readlinkat": 1,
+                "getcpu": 15,
+                "flistxattr": 1,
+                "semtimedop": 3,
+                "capset": 3,
+                "lsetxattr": 2,
+                "syscall_45": 6,
+                "mknodat": 1,
+                "getrlimit": 1,
+                "setuid": 5,
+                "kexec_load": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.431554Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-4605.txt",
+            "trace_length": 334
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 6,
+                "getitimer": 3,
+                "lsetxattr": 6,
+                "semtimedop": 9,
+                "mq_timedreceive": 1,
+                "sched_getscheduler": 1,
+                "flistxattr": 25,
+                "setxattr": 49,
+                "capset": 47,
+                "shmctl": 63,
+                "setpriority": 11,
+                "shmdt": 3,
+                "shmat": 65,
+                "mknodat": 44,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.431646Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-4609.txt",
+            "trace_length": 92
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 18,
+                "readlinkat": 26,
+                "geteuid": 2,
+                "quotactl": 3,
+                "getcpu": 18,
+                "syscall_45": 1,
+                "capset": 2,
+                "lsetxattr": 2,
+                "io_cancel": 1,
+                "shmctl": 1,
+                "kexec_load": 3,
+                "getuid": 1,
+                "mq_timedreceive": 1,
+                "llistxattr": 1,
+                "flistxattr": 5,
+                "setxattr": 2,
+                "shmdt": 3,
+                "execve": 1,
+                "semtimedop": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.431797Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-4620.txt",
+            "trace_length": 89
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 14,
+                "readlinkat": 4,
+                "kexec_load": 4,
+                "capset": 10,
+                "getcpu": 20,
+                "syscall_45": 8,
+                "semtimedop": 2,
+                "sched_setaffinity": 2,
+                "lsetxattr": 3,
+                "shmat": 1,
+                "shmctl": 12,
+                "setxattr": 2,
+                "io_cancel": 2,
+                "getrlimit": 1,
+                "flistxattr": 2,
+                "shmdt": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.431957Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-4731.txt",
+            "trace_length": 138
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 24,
+                "io_getevents": 52,
+                "readlinkat": 17,
+                "flistxattr": 44,
+                "syscall_265": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.432348Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-4767.txt",
+            "trace_length": 1089
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 501,
+                "eventfd2": 329,
+                "syscall_45": 2,
+                "shmctl": 176,
+                "lsetxattr": 14,
+                "setxattr": 51,
+                "semtimedop": 5,
+                "getuid": 1,
+                "fchownat": 2,
+                "capset": 4,
+                "shmdt": 2,
+                "sched_get_priority_max": 1,
+                "clone": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.432471Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS2-961.txt",
+            "trace_length": 229
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 67,
+                "lsetxattr": 29,
+                "shmdt": 14,
+                "capset": 27,
+                "setxattr": 76,
+                "setdomainname": 2,
+                "semtimedop": 12,
+                "readlinkat": 1,
+                "getitimer": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.432795Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS3-1371.txt",
+            "trace_length": 557
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 370,
+                "syscall_265": 177,
+                "getitimer": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.432982Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS3-1613.txt",
+            "trace_length": 406
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 64,
+                "setuid": 30,
+                "io_cancel": 129,
+                "reboot": 94,
+                "kexec_load": 45,
+                "geteuid": 40,
+                "fchownat": 3,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.433329Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS3-2311.txt",
+            "trace_length": 1046
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 262,
+                "getcpu": 390,
+                "syscall_43": 95,
+                "syscall_265": 277,
+                "shmctl": 9,
+                "syscall_340": 13
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.433820Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS3-2462.txt",
+            "trace_length": 1698
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 813,
+                "io_cancel": 340,
+                "syscall_265": 544,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.434049Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS3-2783.txt",
+            "trace_length": 456
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 63,
+                "syscall_265": 94,
+                "getcpu": 254,
+                "readlinkat": 4,
+                "setuid": 39,
+                "eventfd2": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.434147Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS3-4810.txt",
+            "trace_length": 108
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 21,
+                "io_getevents": 41,
+                "flistxattr": 28,
+                "readlinkat": 16,
+                "setxattr": 1,
+                "syscall_265": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.434321Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS3-961.txt",
+            "trace_length": 207
+        },
+        "kernel": {
+            "syscall_counts": {
+                "capset": 23,
+                "setxattr": 74,
+                "io_cancel": 62,
+                "shmdt": 13,
+                "setdomainname": 2,
+                "lsetxattr": 24,
+                "getpriority": 1,
+                "semtimedop": 7,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.434635Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS4-1371.txt",
+            "trace_length": 521
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 352,
+                "syscall_265": 155,
+                "getitimer": 14
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.434887Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS4-1613.txt",
+            "trace_length": 745
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 220,
+                "syscall_265": 99,
+                "kexec_load": 68,
+                "reboot": 187,
+                "geteuid": 120,
+                "setuid": 38,
+                "capset": 1,
+                "sched_setscheduler": 10,
+                "fchownat": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.435225Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS4-2311.txt",
+            "trace_length": 947
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 273,
+                "getcpu": 391,
+                "io_cancel": 188,
+                "syscall_43": 89,
+                "syscall_340": 6
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.435722Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS4-2462.txt",
+            "trace_length": 1764
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 335,
+                "getcpu": 902,
+                "syscall_265": 525,
+                "setuid": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.436001Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS4-2783.txt",
+            "trace_length": 711
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 108,
+                "syscall_265": 170,
+                "getcpu": 359,
+                "setuid": 67,
+                "io_getevents": 4,
+                "setdomainname": 1,
+                "readlinkat": 1,
+                "eventfd2": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.436101Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS4-4609.txt",
+            "trace_length": 117
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 9,
+                "kexec_load": 2,
+                "getuid": 2,
+                "getcpu": 37,
+                "getitimer": 28,
+                "capset": 5,
+                "mq_timedreceive": 2,
+                "syscall_268": 1,
+                "flistxattr": 8,
+                "io_cancel": 1,
+                "geteuid": 1,
+                "quotactl": 1,
+                "semtimedop": 4,
+                "syscall_331": 1,
+                "mknodat": 3,
+                "clone": 1,
+                "shmctl": 2,
+                "setxattr": 3,
+                "shmat": 3,
+                "syscall_45": 1,
+                "lsetxattr": 1,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.436327Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS4-4753.txt",
+            "trace_length": 214
+        },
+        "kernel": {
+            "syscall_counts": {
+                "execve": 5,
+                "readlinkat": 20,
+                "getitimer": 39,
+                "syscall_45": 4,
+                "quotactl": 1,
+                "kexec_load": 2,
+                "setxattr": 5,
+                "capset": 10,
+                "getcpu": 51,
+                "io_cancel": 9,
+                "mq_timedreceive": 2,
+                "flistxattr": 6,
+                "clone": 5,
+                "lsetxattr": 5,
+                "shmctl": 18,
+                "setpriority": 1,
+                "shmat": 4,
+                "mknodat": 3,
+                "llistxattr": 1,
+                "semtimedop": 2,
+                "setuid": 3,
+                "syscall_331": 1,
+                "fsetxattr": 1,
+                "sched_setaffinity": 2,
+                "sched_getscheduler": 1,
+                "io_getevents": 10,
+                "getrlimit": 1,
+                "syscall_268": 1,
+                "fgetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.436438Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS4-4872.txt",
+            "trace_length": 110
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_getevents": 52,
+                "readlinkat": 13,
+                "rt_tgsigqueueinfo": 22,
+                "flistxattr": 20,
+                "setxattr": 1,
+                "syscall_265": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.436598Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS4-4883.txt",
+            "trace_length": 152
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 44,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.436775Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS4-961.txt",
+            "trace_length": 218
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setdomainname": 3,
+                "setxattr": 84,
+                "io_cancel": 56,
+                "capset": 34,
+                "lsetxattr": 22,
+                "semtimedop": 8,
+                "getpriority": 1,
+                "shmdt": 7,
+                "readlinkat": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.437117Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS5-1371.txt",
+            "trace_length": 633
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 464,
+                "syscall_265": 153,
+                "getitimer": 16
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.437351Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS5-1613.txt",
+            "trace_length": 641
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 169,
+                "io_cancel": 199,
+                "setuid": 40,
+                "capset": 2,
+                "syscall_265": 122,
+                "geteuid": 47,
+                "sched_setscheduler": 7,
+                "kexec_load": 47,
+                "fchownat": 8
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.437681Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS5-2311.txt",
+            "trace_length": 1049
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 496,
+                "io_cancel": 214,
+                "syscall_265": 253,
+                "syscall_43": 65,
+                "syscall_340": 14,
+                "shmctl": 7
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.437950Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS5-2377.txt",
+            "trace_length": 477
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 1,
+                "execve": 1,
+                "fchownat": 331,
+                "syscall_309": 124,
+                "rt_tgsigqueueinfo": 1,
+                "syscall_265": 1,
+                "io_cancel": 18
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.438443Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS5-2462.txt",
+            "trace_length": 1584
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 423,
+                "getcpu": 860,
+                "io_cancel": 301
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.438800Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS5-2783.txt",
+            "trace_length": 742
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 124,
+                "syscall_265": 151,
+                "getcpu": 371,
+                "setuid": 63,
+                "io_getevents": 9,
+                "eventfd2": 18,
+                "setdomainname": 3,
+                "readlinkat": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.439018Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS5-5029.txt",
+            "trace_length": 190
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 23,
+                "flistxattr": 78,
+                "io_getevents": 60,
+                "readlinkat": 25,
+                "syscall_265": 3,
+                "setxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.439387Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS5-5047.txt",
+            "trace_length": 936
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_301": 756,
+                "clone": 58,
+                "lsetxattr": 27,
+                "execve": 39,
+                "shmdt": 5,
+                "syscall_300": 33,
+                "syscall_295": 18
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.439597Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS5-961.txt",
+            "trace_length": 289
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 103,
+                "io_cancel": 87,
+                "lsetxattr": 30,
+                "capset": 35,
+                "getpriority": 3,
+                "shmdt": 11,
+                "setdomainname": 7,
+                "semtimedop": 11,
+                "readlinkat": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.439908Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-1371.txt",
+            "trace_length": 464
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 123,
+                "getcpu": 330,
+                "getitimer": 11
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.440143Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-1613.txt",
+            "trace_length": 397
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 127,
+                "syscall_265": 81,
+                "kexec_load": 39,
+                "io_cancel": 122,
+                "setuid": 22,
+                "semtimedop": 1,
+                "geteuid": 2,
+                "fchownat": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.440560Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-2311.txt",
+            "trace_length": 1000
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 194,
+                "syscall_265": 291,
+                "getcpu": 421,
+                "shmctl": 6,
+                "syscall_340": 12,
+                "syscall_43": 76
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.441094Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-2462.txt",
+            "trace_length": 1421
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 295,
+                "syscall_265": 394,
+                "getcpu": 732
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.441373Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-2783.txt",
+            "trace_length": 520
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 245,
+                "setuid": 46,
+                "syscall_265": 119,
+                "io_cancel": 90,
+                "io_getevents": 5,
+                "readlinkat": 4,
+                "eventfd2": 10,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.441532Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-4750.txt",
+            "trace_length": 171
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 79,
+                "getitimer": 17,
+                "capset": 7,
+                "semtimedop": 4,
+                "flistxattr": 3,
+                "shmctl": 10,
+                "setxattr": 5,
+                "mknodat": 3,
+                "readlinkat": 10,
+                "syscall_45": 6,
+                "syscall_43": 1,
+                "mq_timedreceive": 1,
+                "sched_setaffinity": 2,
+                "io_cancel": 14,
+                "setuid": 1,
+                "io_getevents": 8
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.441650Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-4953.txt",
+            "trace_length": 171
+        },
+        "kernel": {
+            "syscall_counts": {
+                "execve": 3,
+                "getitimer": 65,
+                "sched_setaffinity": 2,
+                "syscall_268": 1,
+                "flistxattr": 6,
+                "clone": 1,
+                "setxattr": 2,
+                "shmat": 2,
+                "capset": 2,
+                "setuid": 2,
+                "getcpu": 66,
+                "kexec_load": 2,
+                "io_cancel": 4,
+                "sched_getscheduler": 1,
+                "lsetxattr": 2,
+                "readlinkat": 5,
+                "shmctl": 1,
+                "quotactl": 2,
+                "semtimedop": 1,
+                "llistxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.441750Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-5153.txt",
+            "trace_length": 123
+        },
+        "kernel": {
+            "syscall_counts": {
+                "flistxattr": 22,
+                "io_getevents": 55,
+                "rt_tgsigqueueinfo": 32,
+                "readlinkat": 12,
+                "syscall_265": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.441884Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-5164.txt",
+            "trace_length": 128
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 3,
+                "lsetxattr": 11,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 22,
+                "setxattr": 10,
+                "shmdt": 9,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1,
+                "clone": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.442178Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-5189.txt",
+            "trace_length": 931
+        },
+        "kernel": {
+            "syscall_counts": {
+                "semtimedop": 4,
+                "lsetxattr": 13,
+                "sched_get_priority_max": 3,
+                "fchownat": 1,
+                "io_cancel": 427,
+                "getuid": 1,
+                "syscall_45": 5,
+                "setxattr": 23,
+                "shmctl": 151,
+                "shmdt": 3,
+                "shmat": 1,
+                "capset": 6,
+                "getpriority": 2,
+                "getpeername": 1,
+                "eventfd2": 290
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.442302Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS6-961.txt",
+            "trace_length": 219
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 76,
+                "semtimedop": 10,
+                "capset": 25,
+                "shmdt": 20,
+                "lsetxattr": 21,
+                "io_cancel": 57,
+                "setdomainname": 5,
+                "getpriority": 4,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.442586Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-1371.txt",
+            "trace_length": 634
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 425,
+                "syscall_265": 185,
+                "getitimer": 24
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.442822Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-1613.txt",
+            "trace_length": 565
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 155,
+                "kexec_load": 47,
+                "syscall_265": 119,
+                "geteuid": 9,
+                "capset": 3,
+                "io_cancel": 185,
+                "setuid": 37,
+                "sched_setscheduler": 8,
+                "fchownat": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.443175Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-2311.txt",
+            "trace_length": 1158
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 524,
+                "syscall_265": 282,
+                "syscall_43": 108,
+                "io_cancel": 220,
+                "syscall_340": 13,
+                "shmctl": 11
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.443641Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-2462.txt",
+            "trace_length": 1705
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 932,
+                "syscall_265": 422,
+                "io_cancel": 351
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.443897Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-2783.txt",
+            "trace_length": 758
+        },
+        "kernel": {
+            "syscall_counts": {
+                "eventfd2": 11,
+                "syscall_265": 156,
+                "setuid": 58,
+                "getcpu": 401,
+                "io_cancel": 110,
+                "io_getevents": 12,
+                "setdomainname": 2,
+                "readlinkat": 8
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.443994Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-3754.txt",
+            "trace_length": 113
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 36,
+                "io_cancel": 29,
+                "rt_tgsigqueueinfo": 11,
+                "syscall_265": 3,
+                "mknodat": 5,
+                "getcpu": 24,
+                "setxattr": 1,
+                "setuid": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.444085Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-4548.txt",
+            "trace_length": 95
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 61,
+                "fsetxattr": 29,
+                "sched_getscheduler": 1,
+                "getitimer": 3,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.444247Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-4568.txt",
+            "trace_length": 367
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 42,
+                "getcpu": 62,
+                "lsetxattr": 7,
+                "syscall_45": 6,
+                "mq_timedreceive": 5,
+                "syscall_331": 4,
+                "execve": 1,
+                "syscall_268": 1,
+                "flistxattr": 23,
+                "readlinkat": 9,
+                "shmctl": 46,
+                "io_cancel": 3,
+                "setxattr": 47,
+                "shmat": 14,
+                "capset": 22,
+                "shmdt": 12,
+                "semtimedop": 8,
+                "mknodat": 37,
+                "sched_setaffinity": 1,
+                "setuid": 2,
+                "quotactl": 1,
+                "getrlimit": 2,
+                "clone": 1,
+                "setpriority": 5,
+                "kexec_load": 5,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.444374Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-4751.txt",
+            "trace_length": 103
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 8,
+                "getcpu": 27,
+                "getitimer": 15,
+                "syscall_45": 4,
+                "semtimedop": 4,
+                "mq_timedreceive": 1,
+                "lsetxattr": 6,
+                "io_cancel": 5,
+                "syscall_268": 1,
+                "flistxattr": 7,
+                "shmdt": 2,
+                "shmctl": 1,
+                "shmat": 1,
+                "llistxattr": 2,
+                "setxattr": 5,
+                "quotactl": 2,
+                "syscall_331": 2,
+                "setuid": 2,
+                "getrlimit": 1,
+                "kexec_load": 3,
+                "capset": 2,
+                "io_getevents": 1,
+                "syscall_43": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.444471Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-5251.txt",
+            "trace_length": 131
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 38,
+                "flistxattr": 30,
+                "io_getevents": 44,
+                "readlinkat": 18,
+                "setxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.444581Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-5262.txt",
+            "trace_length": 127
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 11,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.444727Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-5314.txt",
+            "trace_length": 118
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 30,
+                "execve": 1,
+                "getcpu": 36,
+                "readlinkat": 10,
+                "io_cancel": 4,
+                "shmctl": 8,
+                "syscall_45": 2,
+                "kexec_load": 5,
+                "getuid": 1,
+                "geteuid": 1,
+                "semtimedop": 2,
+                "sched_setaffinity": 1,
+                "lsetxattr": 2,
+                "fsetxattr": 1,
+                "flistxattr": 6,
+                "shmat": 1,
+                "mknodat": 3,
+                "syscall_268": 1,
+                "capset": 1,
+                "shmdt": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.444825Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-5317.txt",
+            "trace_length": 91
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmdt": 2,
+                "quotactl": 1,
+                "getitimer": 4,
+                "getcpu": 5,
+                "syscall_45": 3,
+                "capset": 3,
+                "shmctl": 44,
+                "clone": 12,
+                "setxattr": 6,
+                "lsetxattr": 5,
+                "io_cancel": 5,
+                "semtimedop": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.444948Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS7-961.txt",
+            "trace_length": 232
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 94,
+                "lsetxattr": 24,
+                "io_cancel": 65,
+                "shmdt": 7,
+                "capset": 33,
+                "semtimedop": 6,
+                "setdomainname": 2,
+                "getpriority": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.445147Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-1086.txt",
+            "trace_length": 92
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 72,
+                "flistxattr": 20
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.445415Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-1371.txt",
+            "trace_length": 700
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 500,
+                "syscall_265": 177,
+                "getitimer": 23
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.445613Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-1613.txt",
+            "trace_length": 519
+        },
+        "kernel": {
+            "syscall_counts": {
+                "capset": 2,
+                "reboot": 109,
+                "syscall_265": 78,
+                "geteuid": 56,
+                "kexec_load": 70,
+                "io_cancel": 181,
+                "setuid": 21,
+                "sched_setscheduler": 1,
+                "fchownat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.446029Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-2311.txt",
+            "trace_length": 1383
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 375,
+                "syscall_43": 130,
+                "io_cancel": 294,
+                "getcpu": 560,
+                "shmctl": 9,
+                "syscall_340": 15
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.446132Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-2424.txt",
+            "trace_length": 108
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 37,
+                "syscall_265": 18,
+                "getcpu": 27,
+                "lsetxattr": 26
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.446600Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-2462.txt",
+            "trace_length": 1686
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setuid": 1,
+                "readlinkat": 1,
+                "syscall_265": 391,
+                "io_cancel": 288,
+                "getcpu": 1005
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.446694Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-2487.txt",
+            "trace_length": 91
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 60,
+                "fsetxattr": 31
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.446901Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-2783.txt",
+            "trace_length": 606
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 86,
+                "getcpu": 316,
+                "syscall_265": 140,
+                "setuid": 57,
+                "io_getevents": 3,
+                "eventfd2": 3,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.447012Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-3754.txt",
+            "trace_length": 152
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 44,
+                "io_cancel": 50,
+                "rt_tgsigqueueinfo": 10,
+                "getcpu": 30,
+                "syscall_265": 3,
+                "mknodat": 9,
+                "sched_getscheduler": 1,
+                "getsid": 1,
+                "io_getevents": 2,
+                "setuid": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.447159Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-4548.txt",
+            "trace_length": 94
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 60,
+                "fsetxattr": 34
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.447264Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-5426.txt",
+            "trace_length": 141
+        },
+        "kernel": {
+            "syscall_counts": {
+                "flistxattr": 34,
+                "rt_tgsigqueueinfo": 31,
+                "readlinkat": 19,
+                "io_getevents": 55,
+                "syscall_265": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.447373Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-5437.txt",
+            "trace_length": 151
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 43,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.447519Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS8-961.txt",
+            "trace_length": 322
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 81,
+                "capset": 41,
+                "semtimedop": 17,
+                "setdomainname": 7,
+                "setxattr": 115,
+                "shmdt": 20,
+                "lsetxattr": 38,
+                "getpriority": 1,
+                "readlinkat": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.447831Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-1371.txt",
+            "trace_length": 555
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 376,
+                "getitimer": 22,
+                "syscall_265": 157
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.448046Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-1613.txt",
+            "trace_length": 502
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 121,
+                "kexec_load": 56,
+                "io_cancel": 165,
+                "reboot": 135,
+                "setuid": 20,
+                "sched_setscheduler": 4,
+                "fchownat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.448384Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-2311.txt",
+            "trace_length": 1070
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 490,
+                "syscall_265": 268,
+                "io_cancel": 185,
+                "syscall_43": 107,
+                "shmctl": 7,
+                "syscall_340": 13
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.448867Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-2462.txt",
+            "trace_length": 1554
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 1,
+                "io_cancel": 296,
+                "getcpu": 831,
+                "syscall_265": 426
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.449099Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-2783.txt",
+            "trace_length": 638
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 105,
+                "syscall_265": 128,
+                "getcpu": 323,
+                "eventfd2": 11,
+                "io_getevents": 10,
+                "setuid": 58,
+                "readlinkat": 2,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.449441Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-4569.txt",
+            "trace_length": 1130
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 596,
+                "getitimer": 22,
+                "getrlimit": 2,
+                "syscall_45": 7,
+                "readlinkat": 204,
+                "kexec_load": 6,
+                "mq_timedreceive": 3,
+                "flistxattr": 16,
+                "llistxattr": 2,
+                "sched_setaffinity": 2,
+                "syscall_331": 1,
+                "sched_getscheduler": 2,
+                "lsetxattr": 5,
+                "execve": 1,
+                "io_getevents": 49,
+                "semtimedop": 3,
+                "syscall_268": 2,
+                "setxattr": 12,
+                "capset": 11,
+                "shmdt": 3,
+                "shmctl": 4,
+                "mknodat": 6,
+                "setuid": 1,
+                "io_cancel": 169,
+                "quotactl": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.449609Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-4955.txt",
+            "trace_length": 378
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getitimer": 20,
+                "execve": 1,
+                "quotactl": 1,
+                "shmdt": 8,
+                "getcpu": 22,
+                "llistxattr": 1,
+                "lsetxattr": 16,
+                "fsetxattr": 1,
+                "setxattr": 40,
+                "shmat": 41,
+                "semtimedop": 12,
+                "shmctl": 75,
+                "capset": 33,
+                "flistxattr": 26,
+                "mknodat": 61,
+                "sched_setaffinity": 2,
+                "readlinkat": 3,
+                "io_cancel": 2,
+                "setpriority": 4,
+                "syscall_45": 4,
+                "setuid": 2,
+                "mq_timedreceive": 1,
+                "kexec_load": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.449724Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-5314.txt",
+            "trace_length": 110
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 43,
+                "getitimer": 19,
+                "getrlimit": 2,
+                "kexec_load": 3,
+                "semtimedop": 3,
+                "io_getevents": 2,
+                "readlinkat": 5,
+                "flistxattr": 9,
+                "capset": 3,
+                "io_cancel": 7,
+                "setxattr": 1,
+                "llistxattr": 3,
+                "setuid": 2,
+                "shmctl": 2,
+                "quotactl": 1,
+                "syscall_45": 2,
+                "lsetxattr": 2,
+                "syscall_43": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.449898Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-5318.txt",
+            "trace_length": 110
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 4,
+                "llistxattr": 2,
+                "setxattr": 2,
+                "lsetxattr": 6,
+                "getitimer": 32,
+                "getcpu": 43,
+                "getrlimit": 3,
+                "syscall_45": 2,
+                "setuid": 1,
+                "capset": 3,
+                "kexec_load": 4,
+                "flistxattr": 2,
+                "io_cancel": 1,
+                "shmctl": 1,
+                "quotactl": 1,
+                "semtimedop": 1,
+                "sched_getscheduler": 1,
+                "sched_setaffinity": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.450034Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-5539.txt",
+            "trace_length": 97
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 3,
+                "getuid": 22,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 10,
+                "io_cancel": 8,
+                "listxattr": 1,
+                "syscall_45": 1,
+                "mknodat": 9,
+                "semtimedop": 21,
+                "setxattr": 8,
+                "shmdt": 8,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.450154Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-WS9-961.txt",
+            "trace_length": 196
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 86,
+                "io_cancel": 45,
+                "shmdt": 11,
+                "capset": 22,
+                "setdomainname": 5,
+                "getpriority": 1,
+                "lsetxattr": 18,
+                "readlinkat": 3,
+                "semtimedop": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Web_Shell"
+    }
+]

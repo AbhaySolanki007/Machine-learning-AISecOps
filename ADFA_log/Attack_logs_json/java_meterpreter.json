@@ -1,0 +1,4655 @@
+[
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.373230Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-1371.txt",
+            "trace_length": 279
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 111,
+                "getitimer": 13,
+                "getcpu": 155
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.373494Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-1613.txt",
+            "trace_length": 330
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 67,
+                "syscall_265": 43,
+                "kexec_load": 41,
+                "io_cancel": 109,
+                "setuid": 15,
+                "geteuid": 53,
+                "sched_setscheduler": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.373752Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-19425.txt",
+            "trace_length": 263
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clone": 2,
+                "getuid": 1,
+                "io_cancel": 24,
+                "setxattr": 4,
+                "capset": 1,
+                "sched_get_priority_max": 4,
+                "io_getevents": 2,
+                "accept4": 2,
+                "readlinkat": 188,
+                "setpriority": 19,
+                "shmat": 2,
+                "shmctl": 9,
+                "sched_getscheduler": 2,
+                "semtimedop": 1,
+                "lsetxattr": 1,
+                "rt_tgsigqueueinfo": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.374044Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-19444.txt",
+            "trace_length": 290
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmat": 5,
+                "semtimedop": 6,
+                "readlinkat": 204,
+                "sched_get_priority_max": 7,
+                "sched_setaffinity": 1,
+                "rt_tgsigqueueinfo": 4,
+                "sched_getscheduler": 1,
+                "lsetxattr": 1,
+                "io_cancel": 25,
+                "setpriority": 19,
+                "shmctl": 10,
+                "clone": 1,
+                "shmdt": 1,
+                "setxattr": 1,
+                "fgetxattr": 2,
+                "mount": 1,
+                "accept4": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.374375Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-19463.txt",
+            "trace_length": 497
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 10,
+                "sched_get_priority_max": 11,
+                "lsetxattr": 4,
+                "io_cancel": 39,
+                "capset": 1,
+                "io_getevents": 5,
+                "readlinkat": 308,
+                "sched_setaffinity": 1,
+                "semtimedop": 4,
+                "setpriority": 33,
+                "shmat": 5,
+                "shmctl": 25,
+                "rt_tgsigqueueinfo": 6,
+                "shmdt": 1,
+                "getitimer": 42,
+                "read": 1,
+                "fgetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.374836Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-19479.txt",
+            "trace_length": 662
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 436,
+                "readlinkat": 157,
+                "syscall_265": 68,
+                "keyctl": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.375148Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-2311.txt",
+            "trace_length": 643
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 215,
+                "getcpu": 205,
+                "syscall_43": 59,
+                "io_cancel": 150,
+                "syscall_340": 9,
+                "shmctl": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.375511Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-2462.txt",
+            "trace_length": 981
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 236,
+                "syscall_265": 376,
+                "getcpu": 367,
+                "setuid": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.375673Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-2783.txt",
+            "trace_length": 296
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 56,
+                "getcpu": 142,
+                "setuid": 27,
+                "syscall_265": 71
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.375799Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-961.txt",
+            "trace_length": 139
+        },
+        "kernel": {
+            "syscall_counts": {
+                "semtimedop": 8,
+                "setxattr": 61,
+                "capset": 19,
+                "getpriority": 1,
+                "lsetxattr": 15,
+                "shmdt": 6,
+                "setdomainname": 3,
+                "io_cancel": 23,
+                "readlinkat": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.376088Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-1-=1.txt",
+            "trace_length": 347
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 80,
+                "setdomainname": 267
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.376511Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-1371.txt",
+            "trace_length": 314
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 201,
+                "syscall_265": 106,
+                "getitimer": 7
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.377048Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-1613.txt",
+            "trace_length": 811
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 187,
+                "syscall_265": 129,
+                "setuid": 147,
+                "geteuid": 40,
+                "kexec_load": 62,
+                "reboot": 214,
+                "sched_setscheduler": 15,
+                "semtimedop": 2,
+                "fchownat": 6,
+                "getrlimit": 9
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.377227Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-19826.txt",
+            "trace_length": 123
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 11,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 22,
+                "setxattr": 9,
+                "shmdt": 9,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.377584Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-19833.txt",
+            "trace_length": 290
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clone": 1,
+                "semtimedop": 4,
+                "shmat": 5,
+                "io_cancel": 29,
+                "io_getevents": 1,
+                "readlinkat": 209,
+                "sched_setaffinity": 1,
+                "sched_getscheduler": 1,
+                "setpriority": 15,
+                "rt_tgsigqueueinfo": 2,
+                "shmctl": 12,
+                "setxattr": 3,
+                "sched_get_priority_max": 2,
+                "lsetxattr": 1,
+                "mount": 1,
+                "fgetxattr": 1,
+                "geteuid": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.377871Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-19852.txt",
+            "trace_length": 310
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 4,
+                "lsetxattr": 2,
+                "io_cancel": 30,
+                "listen": 1,
+                "getitimer": 1,
+                "sched_get_priority_max": 10,
+                "swapon": 1,
+                "readlinkat": 217,
+                "semtimedop": 6,
+                "sched_getscheduler": 3,
+                "rt_tgsigqueueinfo": 5,
+                "shmat": 2,
+                "setpriority": 14,
+                "shmctl": 10,
+                "shmdt": 1,
+                "umount2": 1,
+                "io_getevents": 1,
+                "accept4": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.378093Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-19880.txt",
+            "trace_length": 128
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 41,
+                "readlinkat": 29,
+                "getgroups": 39,
+                "syscall_265": 3,
+                "sched_get_priority_max": 16
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.378677Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-19887.txt",
+            "trace_length": 758
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 465,
+                "readlinkat": 206,
+                "syscall_265": 85,
+                "keyctl": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.379125Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-2311.txt",
+            "trace_length": 589
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 184,
+                "io_cancel": 137,
+                "getcpu": 202,
+                "syscall_43": 58,
+                "shmctl": 4,
+                "syscall_340": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.379585Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-2377.txt",
+            "trace_length": 466
+        },
+        "kernel": {
+            "syscall_counts": {
+                "lsetxattr": 1,
+                "rt_tgsigqueueinfo": 3,
+                "fchownat": 332,
+                "syscall_309": 87,
+                "io_cancel": 43
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.380340Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-2462.txt",
+            "trace_length": 1219
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 466,
+                "getcpu": 465,
+                "io_cancel": 283,
+                "setuid": 3,
+                "lsetxattr": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.380792Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-2783.txt",
+            "trace_length": 551
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 261,
+                "syscall_265": 133,
+                "io_cancel": 93,
+                "setuid": 40,
+                "io_getevents": 12,
+                "readlinkat": 8,
+                "setdomainname": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.381267Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-10-=1.txt",
+            "trace_length": 488
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 120,
+                "setdomainname": 368
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.381654Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-1371.txt",
+            "trace_length": 243
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 73,
+                "getcpu": 157,
+                "getitimer": 13
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.381878Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-1613.txt",
+            "trace_length": 249
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 79,
+                "reboot": 65,
+                "geteuid": 27,
+                "kexec_load": 30,
+                "syscall_265": 37,
+                "setuid": 10,
+                "sched_setscheduler": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.382004Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-19531.txt",
+            "trace_length": 123
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 11,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 22,
+                "setxattr": 9,
+                "shmdt": 9,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.382177Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-19544.txt",
+            "trace_length": 252
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 3,
+                "syscall_266": 1,
+                "sched_get_priority_max": 3,
+                "semtimedop": 7,
+                "lsetxattr": 5,
+                "io_cancel": 23,
+                "mknodat": 1,
+                "readlinkat": 177,
+                "rt_tgsigqueueinfo": 3,
+                "setpriority": 16,
+                "shmctl": 8,
+                "shmat": 2,
+                "umount2": 1,
+                "io_getevents": 1,
+                "fgetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.382372Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-19563.txt",
+            "trace_length": 236
+        },
+        "kernel": {
+            "syscall_counts": {
+                "listen": 1,
+                "semtimedop": 3,
+                "readlinkat": 173,
+                "rt_tgsigqueueinfo": 6,
+                "syscall_45": 1,
+                "io_cancel": 19,
+                "setpriority": 10,
+                "sched_get_priority_max": 3,
+                "shmat": 5,
+                "sched_getscheduler": 2,
+                "shmctl": 9,
+                "lsetxattr": 1,
+                "umount2": 1,
+                "io_getevents": 1,
+                "mount": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.382627Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-19582.txt",
+            "trace_length": 630
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 7,
+                "capset": 1,
+                "sched_get_priority_max": 4,
+                "io_cancel": 43,
+                "semtimedop": 4,
+                "readlinkat": 391,
+                "rt_tgsigqueueinfo": 12,
+                "setpriority": 31,
+                "sched_getscheduler": 3,
+                "shmat": 1,
+                "shmctl": 18,
+                "lsetxattr": 4,
+                "getitimer": 108,
+                "shmdt": 1,
+                "mknodat": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.382885Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-19598.txt",
+            "trace_length": 618
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 420,
+                "readlinkat": 135,
+                "syscall_265": 62,
+                "syscall_45": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.383185Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-2311.txt",
+            "trace_length": 690
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 214,
+                "io_cancel": 157,
+                "syscall_43": 86,
+                "syscall_265": 227,
+                "syscall_340": 3,
+                "shmctl": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.383496Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-2462.txt",
+            "trace_length": 856
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 186,
+                "getcpu": 340,
+                "syscall_265": 330
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.383689Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-2783.txt",
+            "trace_length": 256
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 51,
+                "getcpu": 118,
+                "syscall_265": 58,
+                "setuid": 28,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.383870Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-2-=1.txt",
+            "trace_length": 389
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 95,
+                "setdomainname": 294
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.384139Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-1371.txt",
+            "trace_length": 294
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 177,
+                "syscall_265": 105,
+                "getitimer": 12
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.384318Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-1613.txt",
+            "trace_length": 350
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 104,
+                "syscall_265": 60,
+                "kexec_load": 28,
+                "semtimedop": 1,
+                "geteuid": 31,
+                "io_cancel": 93,
+                "setuid": 24,
+                "sched_setscheduler": 5,
+                "fchownat": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.384423Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-19676.txt",
+            "trace_length": 113
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 24,
+                "close": 1,
+                "fchownat": 1,
+                "lsetxattr": 10,
+                "io_cancel": 8,
+                "listxattr": 1,
+                "syscall_45": 1,
+                "mknodat": 9,
+                "semtimedop": 21,
+                "setxattr": 8,
+                "shmdt": 8,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 1,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.384678Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-19681.txt",
+            "trace_length": 345
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 4,
+                "capset": 3,
+                "shmat": 4,
+                "sched_get_priority_max": 4,
+                "listen": 1,
+                "io_cancel": 28,
+                "readlinkat": 255,
+                "semtimedop": 5,
+                "sched_getscheduler": 2,
+                "setpriority": 22,
+                "syscall_45": 1,
+                "lsetxattr": 1,
+                "shmctl": 8,
+                "rt_tgsigqueueinfo": 5,
+                "mount": 1,
+                "fgetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.385024Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-19700.txt",
+            "trace_length": 436
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 5,
+                "sched_getscheduler": 2,
+                "semtimedop": 5,
+                "setpriority": 26,
+                "readlinkat": 333,
+                "io_cancel": 33,
+                "setxattr": 6,
+                "shmdt": 5,
+                "execve": 1,
+                "getuid": 1,
+                "sched_get_priority_max": 1,
+                "shmctl": 10,
+                "shmat": 2,
+                "lsetxattr": 2,
+                "umount2": 1,
+                "io_getevents": 2,
+                "syscall_265": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.385332Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-19719.txt",
+            "trace_length": 472
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_311": 1,
+                "setxattr": 6,
+                "sched_setaffinity": 2,
+                "readlinkat": 298,
+                "semtimedop": 11,
+                "capset": 3,
+                "rt_tgsigqueueinfo": 7,
+                "setpriority": 27,
+                "io_cancel": 33,
+                "shmctl": 19,
+                "sched_getscheduler": 2,
+                "shmat": 1,
+                "sched_get_priority_max": 5,
+                "shmdt": 2,
+                "getitimer": 50,
+                "io_getevents": 3,
+                "flistxattr": 1,
+                "lsetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.385646Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-19735.txt",
+            "trace_length": 796
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 507,
+                "readlinkat": 201,
+                "syscall_265": 88
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.385944Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-2311.txt",
+            "trace_length": 718
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 238,
+                "io_cancel": 165,
+                "getcpu": 235,
+                "syscall_43": 72,
+                "syscall_340": 6,
+                "shmctl": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.386344Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-2462.txt",
+            "trace_length": 1081
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 271,
+                "getcpu": 408,
+                "syscall_265": 400,
+                "setuid": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.386549Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-2783.txt",
+            "trace_length": 362
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 175,
+                "syscall_265": 83,
+                "setuid": 32,
+                "io_cancel": 69,
+                "readlinkat": 1,
+                "io_getevents": 1,
+                "eventfd2": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.386738Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-961.txt",
+            "trace_length": 146
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 68,
+                "io_cancel": 36,
+                "lsetxattr": 14,
+                "semtimedop": 5,
+                "shmdt": 6,
+                "capset": 13,
+                "setdomainname": 1,
+                "readlinkat": 1,
+                "getpriority": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.386950Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-3-=1.txt",
+            "trace_length": 423
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 106,
+                "setdomainname": 317
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.387201Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-1371.txt",
+            "trace_length": 297
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 172,
+                "syscall_265": 108,
+                "getitimer": 17
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.387472Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-1613.txt",
+            "trace_length": 656
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 141,
+                "setuid": 82,
+                "geteuid": 39,
+                "reboot": 202,
+                "kexec_load": 59,
+                "sched_setscheduler": 19,
+                "syscall_265": 100,
+                "fchownat": 2,
+                "ptrace": 1,
+                "getrlimit": 9,
+                "capset": 1,
+                "semtimedop": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.387606Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-20017.txt",
+            "trace_length": 150
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 42,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.387827Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-20024.txt",
+            "trace_length": 343
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_311": 1,
+                "setxattr": 11,
+                "clone": 2,
+                "lsetxattr": 5,
+                "shmdt": 4,
+                "semtimedop": 7,
+                "io_cancel": 25,
+                "capset": 2,
+                "mknodat": 1,
+                "sched_get_priority_max": 6,
+                "syscall_266": 1,
+                "syscall_265": 1,
+                "readlinkat": 236,
+                "shmat": 8,
+                "setpriority": 19,
+                "rt_tgsigqueueinfo": 2,
+                "shmctl": 6,
+                "getgroups": 1,
+                "umount2": 1,
+                "io_getevents": 3,
+                "getuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.387956Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-20043.txt",
+            "trace_length": 149
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_311": 1,
+                "capset": 2,
+                "setxattr": 4,
+                "lsetxattr": 3,
+                "shmdt": 3,
+                "sched_get_priority_max": 5,
+                "shmctl": 5,
+                "readlinkat": 94,
+                "semtimedop": 3,
+                "getuid": 1,
+                "io_cancel": 12,
+                "mknodat": 1,
+                "shmat": 3,
+                "io_getevents": 2,
+                "accept4": 2,
+                "geteuid": 1,
+                "setpriority": 7
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.388286Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-20062.txt",
+            "trace_length": 981
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 20,
+                "clone": 2,
+                "shmdt": 4,
+                "lsetxattr": 15,
+                "syscall_265": 1,
+                "semtimedop": 11,
+                "mknodat": 9,
+                "capset": 3,
+                "io_cancel": 124,
+                "getuid": 3,
+                "getitimer": 61,
+                "sched_get_priority_max": 14,
+                "getpriority": 2,
+                "linkat": 1,
+                "io_getevents": 9,
+                "readlinkat": 545,
+                "setpriority": 29,
+                "shmat": 35,
+                "rt_tgsigqueueinfo": 16,
+                "shmctl": 33,
+                "sched_getscheduler": 1,
+                "getcpu": 32,
+                "setuid": 6,
+                "flistxattr": 1,
+                "timerfd_create": 2,
+                "fchownat": 1,
+                "read": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.388599Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-20078.txt",
+            "trace_length": 766
+        },
+        "kernel": {
+            "syscall_counts": {
+                "accept4": 1,
+                "syscall_265": 91,
+                "rt_tgsigqueueinfo": 500,
+                "readlinkat": 174
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.388907Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-2311.txt",
+            "trace_length": 746
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 200,
+                "io_cancel": 189,
+                "getcpu": 269,
+                "syscall_43": 77,
+                "shmctl": 4,
+                "syscall_340": 7
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.389031Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-2342.txt",
+            "trace_length": 92
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_getevents": 3,
+                "rt_tgsigqueueinfo": 8,
+                "keyctl": 49,
+                "io_cancel": 2,
+                "getitimer": 14,
+                "syscall_309": 7,
+                "syscall_265": 8,
+                "mknodat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.389291Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-2377.txt",
+            "trace_length": 639
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 40,
+                "fchownat": 463,
+                "setxattr": 1,
+                "rt_tgsigqueueinfo": 7,
+                "syscall_265": 3,
+                "syscall_309": 122,
+                "io_getevents": 1,
+                "lsetxattr": 1,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.389688Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-2462.txt",
+            "trace_length": 1021
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 221,
+                "getcpu": 413,
+                "syscall_265": 385,
+                "setuid": 1,
+                "setxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.389903Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-2783.txt",
+            "trace_length": 419
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 202,
+                "syscall_265": 113,
+                "io_cancel": 70,
+                "setuid": 32,
+                "setdomainname": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.390116Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-4-=1.txt",
+            "trace_length": 443
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setdomainname": 342,
+                "clock_getres": 101
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.390341Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-1371.txt",
+            "trace_length": 275
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 110,
+                "getcpu": 158,
+                "getitimer": 7
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.390563Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-1613.txt",
+            "trace_length": 493
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 99,
+                "kexec_load": 48,
+                "setuid": 46,
+                "reboot": 136,
+                "io_cancel": 107,
+                "semtimedop": 1,
+                "geteuid": 37,
+                "sched_setscheduler": 13,
+                "getrlimit": 2,
+                "capset": 3,
+                "lsetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.390692Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-20142.txt",
+            "trace_length": 150
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 42,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.390851Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-20145.txt",
+            "trace_length": 253
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_311": 1,
+                "setxattr": 6,
+                "semtimedop": 5,
+                "io_cancel": 18,
+                "capset": 1,
+                "readlinkat": 183,
+                "shmctl": 5,
+                "sched_get_priority_max": 9,
+                "rt_tgsigqueueinfo": 5,
+                "sched_getscheduler": 1,
+                "setpriority": 9,
+                "getuid": 1,
+                "clone": 1,
+                "shmdt": 1,
+                "shmat": 5,
+                "lsetxattr": 1,
+                "fgetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.391027Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-20164.txt",
+            "trace_length": 316
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 7,
+                "shmat": 4,
+                "semtimedop": 4,
+                "mknodat": 1,
+                "accept4": 1,
+                "capset": 1,
+                "readlinkat": 226,
+                "sched_getscheduler": 2,
+                "io_cancel": 24,
+                "sched_get_priority_max": 7,
+                "setpriority": 19,
+                "rt_tgsigqueueinfo": 5,
+                "shmctl": 11,
+                "lsetxattr": 2,
+                "clone": 1,
+                "geteuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.391343Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-20183.txt",
+            "trace_length": 937
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 526,
+                "sched_get_priority_max": 13,
+                "setpriority": 32,
+                "io_cancel": 98,
+                "shmctl": 58,
+                "setxattr": 13,
+                "io_getevents": 4,
+                "semtimedop": 5,
+                "sched_getscheduler": 3,
+                "shmat": 40,
+                "shmdt": 4,
+                "rt_tgsigqueueinfo": 14,
+                "getitimer": 47,
+                "sched_setaffinity": 1,
+                "flistxattr": 1,
+                "lsetxattr": 5,
+                "getpriority": 1,
+                "mknodat": 29,
+                "setuid": 6,
+                "getcpu": 36,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.391654Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-20199.txt",
+            "trace_length": 832
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 487,
+                "syscall_265": 87,
+                "readlinkat": 258
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.391937Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-2311.txt",
+            "trace_length": 705
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 235,
+                "syscall_43": 59,
+                "syscall_265": 236,
+                "io_cancel": 163,
+                "shmctl": 6,
+                "syscall_340": 6
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.392331Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-2462.txt",
+            "trace_length": 1144
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 433,
+                "io_cancel": 266,
+                "syscall_265": 444,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.392526Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-2783.txt",
+            "trace_length": 363
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 77,
+                "syscall_265": 86,
+                "getcpu": 163,
+                "eventfd2": 2,
+                "io_getevents": 2,
+                "setuid": 31,
+                "readlinkat": 1,
+                "fchownat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.392704Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-961.txt",
+            "trace_length": 148
+        },
+        "kernel": {
+            "syscall_counts": {
+                "capset": 24,
+                "semtimedop": 4,
+                "lsetxattr": 14,
+                "io_cancel": 38,
+                "setxattr": 54,
+                "shmdt": 11,
+                "readlinkat": 1,
+                "getpriority": 1,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.392887Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-5-=1.txt",
+            "trace_length": 364
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 84,
+                "setdomainname": 280
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.393091Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-1371.txt",
+            "trace_length": 275
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 176,
+                "syscall_265": 94,
+                "getitimer": 5
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.393295Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-1613.txt",
+            "trace_length": 402
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 100,
+                "kexec_load": 34,
+                "syscall_265": 65,
+                "semtimedop": 2,
+                "geteuid": 28,
+                "reboot": 145,
+                "setuid": 24,
+                "sched_setscheduler": 3,
+                "capset": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.393428Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-20253.txt",
+            "trace_length": 141
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 33,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 12,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 24,
+                "setxattr": 10,
+                "shmdt": 10,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 2,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.393693Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-20256.txt",
+            "trace_length": 404
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 5,
+                "capset": 3,
+                "semtimedop": 4,
+                "shmat": 5,
+                "lsetxattr": 4,
+                "sched_get_priority_max": 9,
+                "io_cancel": 31,
+                "getuid": 2,
+                "listen": 1,
+                "readlinkat": 298,
+                "shmctl": 9,
+                "setpriority": 19,
+                "sched_getscheduler": 1,
+                "rt_tgsigqueueinfo": 6,
+                "socketpair": 1,
+                "clone": 1,
+                "io_getevents": 1,
+                "fgetxattr": 3,
+                "accept4": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.393863Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-20275.txt",
+            "trace_length": 303
+        },
+        "kernel": {
+            "syscall_counts": {
+                "lsetxattr": 4,
+                "setxattr": 6,
+                "semtimedop": 3,
+                "sched_get_priority_max": 5,
+                "io_cancel": 22,
+                "listen": 1,
+                "capset": 2,
+                "linkat": 1,
+                "shmctl": 11,
+                "readlinkat": 222,
+                "rt_tgsigqueueinfo": 6,
+                "sched_getscheduler": 5,
+                "setpriority": 13,
+                "shmdt": 1,
+                "shmat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.394102Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-20294.txt",
+            "trace_length": 561
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmdt": 3,
+                "io_cancel": 35,
+                "getitimer": 60,
+                "mknodat": 9,
+                "capset": 1,
+                "io_getevents": 1,
+                "semtimedop": 3,
+                "rt_tgsigqueueinfo": 13,
+                "sched_get_priority_max": 3,
+                "readlinkat": 353,
+                "setpriority": 37,
+                "shmat": 4,
+                "shmctl": 25,
+                "setxattr": 6,
+                "lsetxattr": 2,
+                "syscall_265": 1,
+                "execve": 2,
+                "sched_setaffinity": 1,
+                "fchownat": 1,
+                "sched_getscheduler": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.394421Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-20310.txt",
+            "trace_length": 792
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 479,
+                "readlinkat": 201,
+                "syscall_265": 112
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.394702Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-2311.txt",
+            "trace_length": 675
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 221,
+                "syscall_43": 69,
+                "io_cancel": 173,
+                "getcpu": 207,
+                "syscall_340": 3,
+                "shmctl": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.395084Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-2462.txt",
+            "trace_length": 1098
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 464,
+                "syscall_265": 382,
+                "io_cancel": 248,
+                "setxattr": 2,
+                "readlinkat": 1,
+                "setpriority": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.395275Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-2783.txt",
+            "trace_length": 322
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 159,
+                "syscall_265": 79,
+                "fchownat": 1,
+                "setuid": 24,
+                "io_cancel": 57,
+                "io_getevents": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.395409Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-961.txt",
+            "trace_length": 146
+        },
+        "kernel": {
+            "syscall_counts": {
+                "shmdt": 10,
+                "lsetxattr": 17,
+                "setxattr": 56,
+                "capset": 21,
+                "io_cancel": 33,
+                "semtimedop": 7,
+                "getpriority": 1,
+                "setdomainname": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.395619Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-6-=1.txt",
+            "trace_length": 440
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 89,
+                "setdomainname": 351
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.395860Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-1371.txt",
+            "trace_length": 316
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 116,
+                "getcpu": 188,
+                "getitimer": 12
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.396068Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-1613.txt",
+            "trace_length": 440
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 99,
+                "kexec_load": 26,
+                "syscall_265": 73,
+                "reboot": 88,
+                "setuid": 75,
+                "geteuid": 20,
+                "sched_setscheduler": 5,
+                "getrlimit": 54
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.396184Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-20347.txt",
+            "trace_length": 136
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_getevents": 46,
+                "flistxattr": 57,
+                "readlinkat": 19,
+                "syscall_265": 2,
+                "rt_tgsigqueueinfo": 12
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.396362Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-20371.txt",
+            "trace_length": 346
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 257,
+                "semtimedop": 4,
+                "sched_get_priority_max": 6,
+                "rt_tgsigqueueinfo": 6,
+                "shmat": 5,
+                "setpriority": 18,
+                "io_cancel": 23,
+                "syscall_45": 1,
+                "sched_getscheduler": 2,
+                "shmctl": 14,
+                "clone": 1,
+                "setxattr": 1,
+                "shmdt": 1,
+                "fgetxattr": 1,
+                "io_getevents": 1,
+                "syscall_265": 1,
+                "mount": 2,
+                "geteuid": 1,
+                "accept4": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.396545Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-20390.txt",
+            "trace_length": 380
+        },
+        "kernel": {
+            "syscall_counts": {
+                "sched_get_priority_max": 6,
+                "semtimedop": 5,
+                "setxattr": 11,
+                "io_cancel": 31,
+                "getuid": 1,
+                "listen": 1,
+                "lsetxattr": 5,
+                "readlinkat": 269,
+                "sched_getscheduler": 1,
+                "rt_tgsigqueueinfo": 6,
+                "syscall_45": 1,
+                "setpriority": 14,
+                "sched_setaffinity": 1,
+                "socketpair": 1,
+                "shmctl": 14,
+                "shmat": 5,
+                "fgetxattr": 2,
+                "umount2": 2,
+                "io_getevents": 3,
+                "syscall_265": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.396852Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-20409.txt",
+            "trace_length": 737
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 16,
+                "io_cancel": 66,
+                "lsetxattr": 8,
+                "sched_get_priority_max": 13,
+                "accept4": 1,
+                "readlinkat": 452,
+                "rt_tgsigqueueinfo": 10,
+                "sched_getscheduler": 2,
+                "shmat": 15,
+                "setpriority": 32,
+                "socketpair": 1,
+                "shmctl": 15,
+                "semtimedop": 8,
+                "getitimer": 59,
+                "io_getevents": 7,
+                "sched_setaffinity": 1,
+                "capset": 2,
+                "mknodat": 6,
+                "flistxattr": 1,
+                "getpriority": 1,
+                "ptrace": 1,
+                "timerfd_create": 2,
+                "shmdt": 2,
+                "getcpu": 12,
+                "setuid": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.397178Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-20425.txt",
+            "trace_length": 855
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 521,
+                "readlinkat": 227,
+                "syscall_265": 106,
+                "keyctl": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.397286Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-20435.txt",
+            "trace_length": 105
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 19,
+                "rt_tgsigqueueinfo": 1,
+                "getcpu": 44,
+                "io_cancel": 41
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.397402Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-20447.txt",
+            "trace_length": 130
+        },
+        "kernel": {
+            "syscall_counts": {
+                "listxattr": 1,
+                "mknodat": 2,
+                "shmctl": 25,
+                "setxattr": 39,
+                "getitimer": 1,
+                "capset": 2,
+                "io_cancel": 44,
+                "semtimedop": 2,
+                "lsetxattr": 13,
+                "shmdt": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.397837Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-2311.txt",
+            "trace_length": 666
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 148,
+                "syscall_265": 227,
+                "syscall_43": 55,
+                "getcpu": 224,
+                "syscall_340": 3,
+                "shmctl": 9
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.398298Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-2462.txt",
+            "trace_length": 1119
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 252,
+                "syscall_265": 452,
+                "getcpu": 414,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.399081Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-2783.txt",
+            "trace_length": 291
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 152,
+                "setuid": 28,
+                "io_cancel": 43,
+                "syscall_265": 67,
+                "fchownat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.399306Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-7-=1.txt",
+            "trace_length": 401
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setdomainname": 303,
+                "clock_getres": 98
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.399576Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-1371.txt",
+            "trace_length": 375
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 167,
+                "getcpu": 196,
+                "getitimer": 12
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.399776Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-1533.txt",
+            "trace_length": 191
+        },
+        "kernel": {
+            "syscall_counts": {
+                "readlinkat": 2,
+                "getitimer": 72,
+                "syscall_265": 37,
+                "lsetxattr": 3,
+                "sched_getscheduler": 2,
+                "io_getevents": 1,
+                "getcpu": 32,
+                "setxattr": 13,
+                "io_cancel": 9,
+                "semtimedop": 4,
+                "shmdt": 5,
+                "shmctl": 1,
+                "fsetxattr": 1,
+                "mknodat": 1,
+                "capset": 5,
+                "execve": 1,
+                "setpriority": 1,
+                "clone": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.400240Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-1613.txt",
+            "trace_length": 728
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 120,
+                "reboot": 215,
+                "io_cancel": 164,
+                "kexec_load": 60,
+                "setuid": 95,
+                "geteuid": 39,
+                "semtimedop": 2,
+                "getitimer": 1,
+                "capset": 1,
+                "sched_setscheduler": 13,
+                "fchownat": 5,
+                "shmctl": 2,
+                "ptrace": 1,
+                "getrlimit": 10
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.400472Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-20507.txt",
+            "trace_length": 180
+        },
+        "kernel": {
+            "syscall_counts": {
+                "geteuid": 4,
+                "getuid": 60,
+                "close": 1,
+                "fchownat": 5,
+                "lsetxattr": 15,
+                "io_cancel": 10,
+                "listxattr": 1,
+                "syscall_45": 3,
+                "mknodat": 9,
+                "semtimedop": 25,
+                "setxattr": 11,
+                "shmdt": 11,
+                "recvmmsg": 1,
+                "sched_get_priority_max": 9,
+                "capset": 3,
+                "syscall_258": 1,
+                "syscall_311": 1,
+                "rt_tgsigqueueinfo": 2,
+                "semctl": 1,
+                "sched_setaffinity": 1,
+                "syscall_268": 1,
+                "execve": 1,
+                "clone": 2,
+                "shmat": 1,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.400734Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-20529.txt",
+            "trace_length": 336
+        },
+        "kernel": {
+            "syscall_counts": {
+                "sched_get_priority_max": 10,
+                "io_cancel": 26,
+                "geteuid": 1,
+                "listen": 1,
+                "setxattr": 4,
+                "capset": 1,
+                "getpriority": 1,
+                "rt_tgsigqueueinfo": 4,
+                "readlinkat": 249,
+                "setpriority": 11,
+                "semtimedop": 1,
+                "sched_getscheduler": 2,
+                "shmctl": 14,
+                "shmat": 7,
+                "io_getevents": 1,
+                "getuid": 1,
+                "fgetxattr": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.401085Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-20548.txt",
+            "trace_length": 391
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 7,
+                "shmdt": 2,
+                "syscall_265": 2,
+                "sched_get_priority_max": 17,
+                "lsetxattr": 5,
+                "rt_tgsigqueueinfo": 4,
+                "semtimedop": 1,
+                "io_cancel": 30,
+                "readlinkat": 277,
+                "setpriority": 17,
+                "sched_getscheduler": 1,
+                "socketpair": 1,
+                "capset": 1,
+                "clone": 1,
+                "shmat": 4,
+                "shmctl": 16,
+                "fgetxattr": 2,
+                "umount2": 1,
+                "accept4": 1,
+                "geteuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.401513Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-20567.txt",
+            "trace_length": 1255
+        },
+        "kernel": {
+            "syscall_counts": {
+                "sched_getscheduler": 2,
+                "rt_tgsigqueueinfo": 19,
+                "semtimedop": 8,
+                "setxattr": 23,
+                "shmdt": 3,
+                "io_cancel": 111,
+                "lsetxattr": 10,
+                "capset": 3,
+                "sched_get_priority_max": 12,
+                "readlinkat": 738,
+                "setpriority": 48,
+                "sched_setaffinity": 3,
+                "shmctl": 39,
+                "shmat": 62,
+                "getuid": 1,
+                "getitimer": 95,
+                "io_getevents": 7,
+                "mknodat": 21,
+                "setuid": 4,
+                "getcpu": 42,
+                "ptrace": 1,
+                "execve": 1,
+                "getppid": 1,
+                "fgetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.401794Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-20583.txt",
+            "trace_length": 762
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 496,
+                "readlinkat": 189,
+                "syscall_265": 76,
+                "accept4": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.402078Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-2311.txt",
+            "trace_length": 785
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 181,
+                "getcpu": 251,
+                "syscall_265": 273,
+                "syscall_43": 70,
+                "shmctl": 5,
+                "syscall_340": 4,
+                "setuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.402303Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-2377.txt",
+            "trace_length": 560
+        },
+        "kernel": {
+            "syscall_counts": {
+                "fchownat": 393,
+                "syscall_309": 121,
+                "io_cancel": 41,
+                "rt_tgsigqueueinfo": 4,
+                "lsetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.402681Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-2462.txt",
+            "trace_length": 1283
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 498,
+                "getcpu": 495,
+                "io_cancel": 284,
+                "setuid": 2,
+                "lsetxattr": 1,
+                "setxattr": 1,
+                "capset": 1,
+                "readlinkat": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.402886Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-2783.txt",
+            "trace_length": 550
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 257,
+                "syscall_265": 132,
+                "io_cancel": 110,
+                "setuid": 39,
+                "readlinkat": 3,
+                "io_getevents": 7,
+                "setdomainname": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.403074Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-8-=1.txt",
+            "trace_length": 457
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 98,
+                "setdomainname": 359
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.403332Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-1371.txt",
+            "trace_length": 350
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 145,
+                "getcpu": 196,
+                "getitimer": 9
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.403522Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-1613.txt",
+            "trace_length": 461
+        },
+        "kernel": {
+            "syscall_counts": {
+                "reboot": 101,
+                "setuid": 76,
+                "io_cancel": 120,
+                "syscall_265": 74,
+                "kexec_load": 45,
+                "geteuid": 23,
+                "sched_setscheduler": 8,
+                "ptrace": 1,
+                "getrlimit": 10,
+                "capset": 1,
+                "semtimedop": 2
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.403699Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-20674.txt",
+            "trace_length": 315
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_311": 1,
+                "setxattr": 9,
+                "clone": 2,
+                "lsetxattr": 4,
+                "shmdt": 3,
+                "semtimedop": 5,
+                "io_cancel": 24,
+                "capset": 2,
+                "mknodat": 1,
+                "sched_get_priority_max": 2,
+                "readlinkat": 227,
+                "setpriority": 15,
+                "sched_getscheduler": 1,
+                "socketpair": 1,
+                "shmctl": 13,
+                "shmat": 1,
+                "getgroups": 1,
+                "syscall_45": 1,
+                "io_getevents": 1,
+                "geteuid": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.403835Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-20693.txt",
+            "trace_length": 261
+        },
+        "kernel": {
+            "syscall_counts": {
+                "setxattr": 7,
+                "io_cancel": 32,
+                "capset": 1,
+                "syscall_266": 1,
+                "shmat": 3,
+                "semtimedop": 4,
+                "sched_get_priority_max": 8,
+                "readlinkat": 178,
+                "sched_getscheduler": 1,
+                "setpriority": 14,
+                "rt_tgsigqueueinfo": 3,
+                "socketpair": 1,
+                "shmctl": 7,
+                "lsetxattr": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.404132Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-20712.txt",
+            "trace_length": 978
+        },
+        "kernel": {
+            "syscall_counts": {
+                "semtimedop": 5,
+                "sched_get_priority_max": 6,
+                "sched_getscheduler": 5,
+                "rt_tgsigqueueinfo": 24,
+                "syscall_45": 1,
+                "shmdt": 3,
+                "lsetxattr": 6,
+                "readlinkat": 442,
+                "shmat": 17,
+                "setpriority": 44,
+                "io_cancel": 183,
+                "setxattr": 16,
+                "shmctl": 31,
+                "semctl": 1,
+                "getitimer": 87,
+                "io_getevents": 16,
+                "capset": 5,
+                "setuid": 6,
+                "getcpu": 64,
+                "getpriority": 2,
+                "mknodat": 13,
+                "ptrace": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.404225Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-20720.txt",
+            "trace_length": 78
+        },
+        "kernel": {
+            "syscall_counts": {
+                "swapon": 1,
+                "accept4": 2,
+                "getgroups": 71,
+                "syscall_265": 1,
+                "rt_tgsigqueueinfo": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.404353Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-20721.txt",
+            "trace_length": 90
+        },
+        "kernel": {
+            "syscall_counts": {
+                "syscall_265": 3,
+                "readlinkat": 28,
+                "sched_get_priority_max": 17,
+                "rt_tgsigqueueinfo": 42
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.404663Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-20728.txt",
+            "trace_length": 952
+        },
+        "kernel": {
+            "syscall_counts": {
+                "rt_tgsigqueueinfo": 617,
+                "accept4": 1,
+                "readlinkat": 221,
+                "syscall_265": 113
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.404783Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-20730.txt",
+            "trace_length": 105
+        },
+        "kernel": {
+            "syscall_counts": {
+                "swapon": 1,
+                "io_cancel": 48,
+                "getcpu": 38,
+                "readlinkat": 18
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.404887Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-20748.txt",
+            "trace_length": 105
+        },
+        "kernel": {
+            "syscall_counts": {
+                "mknodat": 1,
+                "shmctl": 4,
+                "io_cancel": 9,
+                "recvmmsg": 1,
+                "syscall_45": 2,
+                "execve": 1,
+                "setxattr": 14,
+                "timerfd_create": 58,
+                "getpriority": 12,
+                "lsetxattr": 3
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.405163Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-2311.txt",
+            "trace_length": 815
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 244,
+                "syscall_265": 292,
+                "io_cancel": 197,
+                "syscall_43": 72,
+                "shmctl": 4,
+                "syscall_340": 6
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.405555Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-2462.txt",
+            "trace_length": 1230
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 278,
+                "getcpu": 468,
+                "readlinkat": 1,
+                "syscall_265": 479,
+                "setuid": 2,
+                "setxattr": 1,
+                "setpriority": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.405748Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-2783.txt",
+            "trace_length": 331
+        },
+        "kernel": {
+            "syscall_counts": {
+                "getcpu": 156,
+                "syscall_265": 80,
+                "io_cancel": 65,
+                "setuid": 29,
+                "io_getevents": 1
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.405856Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-961.txt",
+            "trace_length": 141
+        },
+        "kernel": {
+            "syscall_counts": {
+                "io_cancel": 42,
+                "capset": 15,
+                "shmdt": 10,
+                "setxattr": 45,
+                "lsetxattr": 19,
+                "setdomainname": 2,
+                "getpriority": 4,
+                "semtimedop": 4
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    },
+    {
+        "class_uid": 1003,
+        "class_name": "Kernel Activity",
+        "category_uid": 1,
+        "category_name": "System Activity",
+        "time": "2025-08-11T22:07:06.406031Z",
+        "activity_id": 1,
+        "activity_name": "System Call Trace",
+        "type_uid": 1,
+        "type_name": "System Call",
+        "os": {
+            "type": "Linux"
+        },
+        "metadata": {
+            "filename": "UAD-Java-Meterpreter-9-=1.txt",
+            "trace_length": 423
+        },
+        "kernel": {
+            "syscall_counts": {
+                "clock_getres": 113,
+                "setdomainname": 310
+            }
+        },
+        "severity_id": 1,
+        "severity": "Informational",
+        "status_id": 1,
+        "status": "Success",
+        "label": "attack",
+        "attack_type": "Java_Meterpreter"
+    }
+]
